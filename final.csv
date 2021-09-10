@@ -1,0 +1,892 @@
+course_title,course_organization,course_Certificate_type,course_rating,course_difficulty,course_students_enrolled,EmployeeID,skill,Hours per Week,Description,Genere,Date
+(ISC)² Systems Security Certified Practitioner (SSCP),0,2,4.7,1,5.3,8718667,Accounts,5,0,Other,56
+A Crash Course in Causality:  Inferring Causal Effects from Observational Data,138,0,4.7,2,17.0,40724176,Data Science,4,0,Other,29
+A Crash Course in Data Science,48,0,4.5,3,130.0,10770023,Management,6,1,science data,1
+A Law Student's Toolkit,148,0,4.7,3,91.0,90119887,Machine Learning,3,0,Other,18
+A Life of Happiness and Fulfillment,45,0,4.8,3,320.0,3815366,Business,2,0,Other,36
+ADHD: Everyday Strategies for Elementary Students,118,0,4.7,1,39.0,53620204,Analytics,5,0,Other,29
+AI For Everyone,150,0,4.8,1,350.0,33219769,Reinforcement Learning,4,1,ai,9
+AI For Medical Treatment,150,0,4.8,2,2.4,85208661,Feature Engineering,1,1,ai,22
+AI Foundations for Everyone,38,2,4.7,1,61.0,15966239,Management,5,1,ai,41
+AI for Medical Diagnosis,150,0,4.7,2,12.0,33721665,AI,1,1,ai,12
+AI for Medical Prognosis,150,0,4.6,2,4.0,33379639,Business,4,1,ai,51
+AI for Medicine,150,2,4.7,2,13.0,24516335,Data Visualization,4,1,ai,57
+AWS Fundamentals,1,2,4.6,1,130.0,167055,AI,3,0,Other,28
+AWS Fundamentals: Addressing Security Risk,1,0,4.3,1,11.0,43627579,AI,1,0,Other,0
+AWS Fundamentals: Building Serverless Applications,1,0,4.7,1,27.0,8761349,Data Science,2,0,Other,24
+AWS Fundamentals: Going Cloud-Native,1,0,4.7,1,110.0,59759946,AI,5,0,Other,40
+AWS Fundamentals: Migrating to the Cloud,1,0,4.5,2,13.0,6987696,Artificial Intelligence,1,0,Other,16
+Aboriginal Worldviews and Education,140,0,4.7,3,6.6,31545897,AI,2,0,Other,39
+Academic English: Writing,123,2,4.7,1,540.0,44832170,Administration,4,0,Other,27
+Accelerated Computer Science Fundamentals,131,2,4.7,2,22.0,90539865,Analytics,1,0,Other,59
+Access Controls,0,0,4.6,1,2.9,9276456,Business,1,0,Other,44
+Accounting Analytics,138,0,4.5,3,80.0,14217506,Accounts,3,1,analytics,30
+Accounting for Decision Making,135,0,4.8,2,9.9,79007184,Analytics,3,0,Other,46
+Achieving Personal and Professional Success,138,2,4.7,1,110.0,2123597,Management,3,0,Other,10
+Actualización en el manejo del paciente con diabetes mellitus tipo 2,109,0,4.8,3,23.0,91115054,Consulting,4,0,Other,22
+Addiction Treatment: Clinical Skills for Healthcare Providers,148,0,4.8,1,9.2,57340808,Data Visualization,5,0,Other,26
+Advanced Business Analytics,126,2,4.5,2,78.0,26532170,Management,6,1,business analytics,47
+Advanced Data Science with IBM,38,2,4.4,0,320.0,83783764,Data Science,3,1,science data,3
+Advanced Machine Learning,63,2,4.5,0,190.0,76879474,Administration,2,1,learning machine,14
+Advanced Machine Learning with TensorFlow on Google Cloud Platform,34,2,4.5,0,35.0,34346215,Artificial Intelligence,6,1,learning machine,21
+"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital",28,0,4.7,0,29.0,80149659,Feature Engineering,5,0,Other,29
+Advertising and Society,20,0,4.8,3,14.0,20686247,Consulting,6,0,Other,38
+Age of Cathedrals,148,0,4.7,1,21.0,60890252,Random Forest,3,0,Other,56
+Agile Development,141,2,4.7,1,94.0,52707495,Business,2,0,Other,20
+Agile Meets Design Thinking,141,0,4.7,1,69.0,80933852,Leadership,4,0,Other,19
+Agile with Atlassian Jira,5,0,4.7,1,40.0,31526315,Machine Learning,5,0,Other,43
+Agile и Scrum в работе над проектами и продуктами,83,0,4.9,1,12.0,39823815,Neural Networks,4,0,Other,6
+Algorithmic Toolbox,121,0,4.7,2,220.0,76927908,Random Forest,6,0,Other,25
+Algorithms,85,2,4.8,2,150.0,51275213,Neural Networks,6,0,Other,52
+Algorithms for Battery Management Systems,127,2,4.8,2,14.0,68483721,Random Forest,1,1,management,30
+American Contract Law I,148,0,4.9,1,18.0,63835326,Pattern Recognition,2,0,Other,10
+An Introduction to American Law,138,0,4.8,1,23.0,66665763,Management,2,0,Other,46
+An Introduction to Consumer Neuroscience & Neuromarketing,18,0,4.7,1,69.0,89009857,Random Forest,5,0,Other,7
+An Introduction to Programming the Internet of Things (IOT),123,2,4.6,1,270.0,48613647,Accounts,3,0,Other,44
+Analysing: Numeric and digital literacies,55,2,4.6,1,7.9,66847022,Consulting,6,0,Other,28
+Anatomy,135,2,4.8,1,30.0,37452163,Random Forest,4,0,Other,32
+"Anatomy of the Chest, Abdomen, and Pelvis",148,0,4.8,2,36.0,3184130,Consulting,6,0,Other,15
+Anatomy: Musculoskeletal and Integumentary Systems,135,0,4.8,1,20.0,75417317,Neural Networks,1,0,Other,25
+Ancient Philosophy: Aristotle and His Successors,138,0,4.8,3,8.1,18146491,Finance,5,0,Other,43
+Android App Development,145,2,4.5,1,120.0,82019018,Artificial Intelligence,4,0,Other,15
+Animal Behaviour and Welfare,96,0,4.8,3,71.0,91364591,Reinforcement Learning,6,0,Other,34
+Antibiotic Stewardship,85,0,4.5,0,11.0,65807415,Leadership,5,0,Other,22
+Anticorrupción: Introducción a conceptos y perspectiva práctica,109,0,4.8,1,11.0,17012688,Reinforcement Learning,3,0,Other,37
+Antimicrobial resistance - theory and methods,86,0,4.6,2,63.0,33691615,Finance,3,0,Other,15
+Applied Data Science,38,2,4.6,1,220.0,39119330,Business,2,1,science data,35
+Applied Data Science Capstone,38,0,4.7,2,42.0,7329077,Deep Learning,2,1,science data,26
+Applied Data Science with Python,135,2,4.5,2,480.0,45676707,Neural Networks,6,1,science data,9
+Applied Machine Learning in Python,135,0,4.6,2,150.0,57316851,Random Forest,3,1,learning machine,58
+"Applied Plotting, Charting & Data Representation in Python",135,0,4.6,2,97.0,33610609,Artificial Intelligence,4,0,Other,14
+Aprende a programar con Python,108,2,4.2,1,6.6,18906186,Business,6,0,Other,44
+Aprender,109,0,4.8,3,200.0,8815729,Kaggle,5,0,Other,53
+Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles (Learning How to Learn),121,0,4.9,1,180.0,62831752,Leadership,2,0,Other,37
+Architecting with Google Cloud Platform 日本語版,34,2,4.5,2,4.2,1282910,Management,4,0,Other,17
+Architecting with Google Compute Engine,34,2,4.7,2,310.0,35191368,Consulting,1,0,Other,51
+Architecting with Google Kubernetes Engine 日本語版,34,2,4.5,1,3.9,22912976,Management,6,0,Other,13
+Arizona State University TESOL,4,1,4.9,1,150.0,53199749,Data Science,3,0,Other,33
+Art & Activity: Interactive Strategies for Engaging with Art,92,0,4.8,3,79.0,72366335,Analytics,5,0,Other,11
+Art & Ideas: Teaching with Themes,92,0,4.8,3,31.0,90915327,Analytics,5,0,Other,2
+Arts and Culture Strategy,62,0,4.6,3,15.0,63880083,Random Forest,4,0,Other,16
+Arts and Heritage Management,143,0,4.8,3,15.0,99179309,Deep Learning,4,1,management,18
+Aspectos básicos de la planificación y la gestión de proyectos,141,0,4.9,1,10.0,96405917,Artificial Intelligence,1,0,Other,32
+Astrobiology and the Search for Extraterrestrial Life,96,0,4.7,3,66.0,62999070,Consulting,6,0,Other,49
+Atención Primaria en Salud: El desafío de las Enfermedades no Transmisibles,73,0,4.8,2,33.0,23337318,AI,6,0,Other,12
+Autism Spectrum Disorder,122,0,4.6,3,56.0,48381148,Deep Learning,5,0,Other,5
+Autodesk CAD/CAM for Manufacturing,6,2,4.8,2,7.3,17758973,Finance,4,0,Other,3
+Autodesk CAD/CAM/CAE for Mechanical Engineering,6,2,4.8,2,9.2,99195777,Business,1,0,Other,20
+Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep,6,0,4.7,0,22.0,44449992,Administration,1,0,Other,19
+Autodesk Certified Professional: Revit for Architectural Design Exam Prep,6,0,4.7,0,9.7,75165015,Administration,4,0,Other,19
+BIM Fundamentals for Engineers,64,0,4.6,1,13.0,4412985,Neural Networks,4,0,Other,32
+Basic Statistics,120,0,4.6,1,180.0,13472760,AI,1,0,Other,51
+Bayesian Statistics: From Concept to Data Analysis,124,0,4.8,2,91.0,19317697,Finance,6,0,Other,39
+Bayesian Statistics: Techniques and Models,124,0,4.8,2,29.0,25636234,Administration,2,0,Other,43
+Become a CBRS Certified Professional Installer by Google,33,0,4.9,3,210.0,35204753,Random Forest,1,0,Other,21
+Become a Journalist: Report the News!,59,2,4.7,1,28.0,27192985,Neural Networks,3,0,Other,43
+Become a Sustainable Business Change Agent,127,2,4.7,2,4.2,43426858,Management,1,1,business,38
+Becoming a Sports Agent,13,0,4.7,1,6.5,42035731,Kaggle,2,0,Other,38
+Becoming a changemaker: Introduction to Social Innovation,125,0,4.8,1,61.0,10862083,Finance,4,0,Other,9
+Behavioral Finance,20,0,4.4,3,55.0,6260877,Leadership,1,1,finance,41
+Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,135,0,4.6,3,2.3,35506144,Machine Learning,1,0,Other,46
+Big Data – Introducción al uso práctico de datos masivos,114,2,4.5,1,8.8,8878890,Leadership,1,0,Other,3
+Biohacking Your Brain's Health,27,0,4.6,1,35.0,43320031,Kaggle,2,0,Other,25
+Biology Meets Programming: Bioinformatics for Beginners,121,0,4.4,1,88.0,856121,Consulting,3,0,Other,45
+Biostatistics in Public Health,48,2,4.8,1,14.0,53580101,Pattern Recognition,6,0,Other,47
+Blended Language Learning: Design and Practice for Teachers,126,0,4.8,2,1.9,7348399,Analytics,1,0,Other,1
+Blockchain,118,2,4.6,2,68.0,69420591,Administration,5,0,Other,35
+Blockchain Revolution,42,2,4.7,1,21.0,40420726,Analytics,1,0,Other,42
+Blockchain Revolution in Financial Services,42,2,4.6,1,1.6,98534817,AI,4,0,Other,9
+Blockchain: Foundations and Use Cases,17,0,4.7,1,31.0,26254001,Deep Learning,6,0,Other,31
+Boosting Creativity for Innovation,35,0,4.9,1,9.5,47251074,Pattern Recognition,5,0,Other,29
+"Brand Management: Aligning Business, Brand and Behaviour",51,0,4.9,1,57.0,75081494,Machine Learning,6,1,,4
+Branding: The Creative Journey,39,2,4.6,1,26.0,33483054,Random Forest,3,0,Other,25
+Budgeting and Scheduling Projects,123,0,4.7,3,84.0,34836702,Finance,2,0,Other,36
+Bugs 101: Insect-Human Interactions,119,0,4.9,1,15.0,63912793,AI,3,0,Other,14
+Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),36,0,4.9,3,95.0,96968607,Deep Learning,4,0,Other,49
+Building Batch Data Pipelines on GCP,34,0,4.5,2,7.3,88388013,Analytics,5,0,Other,32
+Building Conversational Experiences with Dialogflow,34,0,4.5,1,22.0,41903781,Administration,4,0,Other,39
+Building Resilient Streaming Analytics Systems on GCP,34,0,4.6,2,5.8,71771790,Reinforcement Learning,1,1,analytics,17
+Building Scalable Java Microservices with Spring Boot and Spring Cloud,34,0,4.3,2,24.0,67905195,Finance,5,0,Other,15
+Building Your Leadership Skills,35,0,4.5,3,67.0,37210961,Finance,6,1,leadership,55
+Business Analytics,138,2,4.6,1,280.0,23496343,Machine Learning,2,1,business analytics,55
+Business English,4,2,4.7,2,38.0,7837647,Machine Learning,3,1,business,32
+Business English Communication Skills,142,2,4.7,2,120.0,87890893,Data Visualization,6,1,business,14
+Business English: Networking,142,0,4.7,2,77.0,5715921,Data Science,6,1,business,59
+Business Foundations,138,2,4.7,1,510.0,51869612,Feature Engineering,5,1,business,7
+Business Model Innovation,35,0,4.7,3,13.0,53753637,Machine Learning,6,1,business,50
+Business Statistics and Analysis,76,2,4.7,1,110.0,14613923,Leadership,5,1,business,10
+Business Strategies for A Better World,138,2,4.7,1,24.0,65593171,Leadership,5,1,business,44
+Business Strategy,141,2,4.7,1,89.0,91582319,Deep Learning,1,1,business,21
+Business Technology Management,45,2,4.5,1,67.0,77613296,Neural Networks,1,1,business management,29
+Business Transformation with Google Cloud,34,0,4.7,1,10.0,38925926,Pattern Recognition,6,1,business,13
+Business Writing,126,0,4.8,1,48.0,12646995,Machine Learning,2,1,business,13
+Business and Financial Modeling,138,2,4.5,1,160.0,97492956,Consulting,4,1,business,34
+C for Everyone: Programming Fundamentals,124,0,4.5,1,31.0,51710348,Data Visualization,2,0,Other,31
+C# Programming for Unity Game Development,127,2,4.7,1,36.0,62961762,Neural Networks,2,0,Other,10
+COVID-19 Contact Tracing,48,0,4.9,1,220.0,80227664,Leadership,5,0,Other,40
+COVID-19: What You Need to Know (CME Eligible),69,0,4.8,1,32.0,38624616,Machine Learning,2,0,Other,16
+"Cameras, Exposure, and Photography",59,0,4.7,3,130.0,6205576,Neural Networks,5,0,Other,53
+Camino a la Excelencia en Gestión de Proyectos,73,0,4.7,1,340.0,13601579,Analytics,1,0,Other,9
+"Capstone: Retrieving, Processing, and Visualizing Data with Python",135,0,4.6,3,82.0,66844713,Accounts,3,0,Other,51
+Career Success,123,2,4.4,1,790.0,34953968,Random Forest,1,0,Other,39
+Challenging Forensic Science: How Science Should Speak to Court,132,0,4.8,1,31.0,87107720,Administration,5,0,Other,52
+Chemicals and Health,48,0,4.7,1,23.0,74016450,Random Forest,3,0,Other,33
+Chicken Behaviour and Welfare,96,0,4.7,3,19.0,98043914,AI,2,0,Other,20
+Child Nutrition and Cooking,85,0,4.7,1,30.0,66883435,Business,1,0,Other,49
+Chinese for HSK 1,71,0,4.8,1,22.0,30380577,Random Forest,2,0,Other,56
+Cisco Networking Basics,14,2,4.7,1,57.0,79110915,Artificial Intelligence,3,0,Other,58
+Classical Sociological Theory,120,0,4.8,3,51.0,2825803,Data Science,1,0,Other,19
+Claves de la Dirección de Empresas,41,2,4.8,1,51.0,52159077,Pattern Recognition,6,0,Other,37
+Climate Change and Health: From Science to Action,148,2,4.6,1,4.8,87139466,Data Science,4,0,Other,14
+Clinical Terminology for International and U.S. Students,139,0,4.8,1,32.0,51471914,Machine Learning,3,0,Other,54
+Cloud Computing,131,2,4.4,2,110.0,13737149,Finance,1,0,Other,55
+Cloud Computing Basics (Cloud 101),50,0,4.5,1,37.0,50012251,Feature Engineering,2,0,Other,40
+Cloud Engineering with Google Cloud,34,1,4.7,2,310.0,54545774,Finance,5,0,Other,32
+Coaching Skills for Managers,122,2,4.7,2,37.0,36900054,Business,1,0,Other,50
+Code Yourself! An Introduction to Programming,96,0,4.7,1,120.0,89343356,AI,4,0,Other,5
+Communication Skills for Engineers,76,2,4.7,1,15.0,34008085,Pattern Recognition,3,0,Other,55
+Communication Strategies for a Virtual Age,140,0,4.8,1,43.0,27175138,Administration,6,0,Other,27
+Compassionate Leadership Through Service Learning with Jane Goodall and Roots & Shoots,126,0,4.9,1,6.4,50630148,Analytics,1,1,leadership learning,4
+"Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, Power Point)",114,0,4.7,1,43.0,20327205,Machine Learning,1,0,Other,58
+Competitive Strategy and Organization Design,52,2,4.7,2,350.0,32205722,Artificial Intelligence,4,0,Other,0
+Computational Social Science,122,2,4.6,1,5.8,39817018,Machine Learning,1,0,Other,28
+Computational Thinking for Problem Solving,138,0,4.8,1,33.0,93826248,Data Science,6,0,Other,19
+Computer Security and Systems Management,127,2,4.6,1,27.0,8036181,Random Forest,4,1,management,48
+Conflict Management,123,2,4.3,1,66.0,19709486,Deep Learning,5,1,management,59
+Construction Cost Estimating and Cost Control,16,0,4.7,1,19.0,19949934,Deep Learning,3,0,Other,47
+Construction Management,16,2,4.7,1,61.0,99526501,Analytics,6,1,management,57
+Construction Project Management,16,0,4.8,1,43.0,89080870,Neural Networks,1,1,management,43
+Construction Scheduling,16,0,4.8,1,15.0,19416329,Accounts,1,0,Other,15
+Contabilidad para no contadores,109,0,4.7,1,220.0,56462449,Feature Engineering,2,0,Other,5
+Content Strategy for Professionals,67,2,4.5,1,27.0,8510002,Artificial Intelligence,1,0,Other,6
+Continuous Delivery & DevOps,141,0,4.6,1,26.0,31702820,Accounts,3,0,Other,26
+Control of Mobile Robots,30,0,4.8,3,49.0,34114424,Administration,5,0,Other,18
+Convolutional Neural Networks,150,0,4.9,2,240.0,53768199,Feature Engineering,3,1,networks neural,46
+Convolutional Neural Networks in TensorFlow,150,0,4.7,2,46.0,92937432,Leadership,6,1,networks neural,7
+Corporate & Commercial Law I: Contracts & Employment Law,131,0,4.8,2,10.0,80901943,Consulting,5,0,Other,25
+Corporate Finance Essentials,41,0,4.8,3,56.0,53418341,Random Forest,2,1,finance,7
+Corporate Strategy,105,0,4.8,1,7.8,78608005,Data Visualization,6,0,Other,24
+Corporate Sustainability. Understanding and Seizing the Strategic Opportunity,143,0,4.6,3,10.0,48395903,Artificial Intelligence,6,0,Other,49
+"Corrección, estilo y  variaciones de la lengua española",114,0,4.6,1,75.0,73056032,Data Visualization,5,0,Other,43
+Cost and Economics in Pricing Strategy,141,0,4.8,1,15.0,77695444,Neural Networks,2,0,Other,50
+Costos para los Negocios,110,0,4.8,2,43.0,25685173,Data Visualization,2,0,Other,22
+Crash Course on Python,32,0,4.8,1,81.0,83277704,Business,2,0,Other,32
+Creative Problem Solving,136,0,4.3,3,140.0,57794417,Deep Learning,3,0,Other,6
+Creative Writing,146,2,4.6,1,140.0,48611995,Feature Engineering,1,0,Other,54
+Creative Writing: The Craft of Plot,146,0,4.7,3,120.0,39581331,Artificial Intelligence,1,0,Other,7
+"Creatividad, diseño e innovación: Técnicas y herramientas",4,2,4.7,1,150.0,22414980,Artificial Intelligence,2,0,Other,49
+Cuidado de heridas en el ámbito hospitalario,109,0,4.8,2,26.0,50125755,Deep Learning,5,0,Other,25
+Cuidados y procedimientos generales en la atención del recién nacido,110,0,4.8,2,22.0,12610622,Accounts,6,0,Other,3
+Culture-Driven Team Building,138,2,4.6,1,17.0,63478275,Leadership,2,0,Other,42
+Curanderismo: Traditional Healing Using Plants,137,0,4.6,1,5.5,89826825,Finance,5,0,Other,55
+Customer Segmentation and Prospecting,67,0,4.7,1,18.0,79052602,Administration,4,0,Other,47
+Cybersecurity,134,2,4.5,2,99.0,60915778,Accounts,4,0,Other,11
+Cybersecurity and Its Ten Domains,117,0,4.2,1,140.0,49447442,Leadership,5,0,Other,17
+Cybersecurity for Business,127,2,4.6,1,23.0,69578217,Machine Learning,1,1,business,21
+Cómo hablar bien en público,114,0,4.8,1,55.0,12231632,Finance,1,0,Other,2
+Dairy Production and Management,93,0,4.8,3,23.0,5243537,Administration,5,1,management,56
+Data Analysis and Interpretation,146,2,4.4,1,100.0,86164707,Deep Learning,5,0,Other,11
+Data Analysis and Presentation Skills: the PwC Approach,74,2,4.6,1,220.0,36184107,Data Visualization,2,0,Other,45
+Data Analysis with Python,38,0,4.7,1,110.0,66894729,AI,5,0,Other,57
+Data Analytics for Lean Six Sigma,120,0,4.8,1,24.0,42076166,Leadership,1,1,data analytics,45
+Data Collection and Processing with Python,135,0,4.7,2,19.0,35867055,Neural Networks,2,0,Other,17
+Data Engineering on Google Cloud Platform 日本語版,34,2,4.4,2,3.0,77028596,Management,4,0,Other,19
+Data Engineering with Google Cloud,34,1,4.6,2,120.0,34303328,Analytics,6,0,Other,18
+"Data Engineering, Big Data, and Machine Learning on GCP",34,2,4.6,2,120.0,75371395,Consulting,5,1,data learning machine,44
+Data Management for Clinical Research,145,0,4.7,1,42.0,82047812,Reinforcement Learning,1,1,data management,38
+Data Mining,131,2,4.4,2,140.0,18067605,Reinforcement Learning,6,0,Other,54
+Data Science,48,2,4.5,1,830.0,97723044,Administration,4,1,science data,22
+Data Science Math Skills,20,0,4.5,1,140.0,6244218,Pattern Recognition,2,1,science data,51
+Data Science Methodology,38,0,4.6,1,89.0,41472735,Analytics,4,1,science data,43
+Data Science: Foundations using R,48,2,4.6,1,740.0,50047479,Data Visualization,6,1,data,45
+Data Science: Statistics and Machine Learning,48,2,4.4,2,210.0,82935773,Leadership,1,1,data learning machine,56
+Data Visualization and Communication with Tableau,20,0,4.7,3,130.0,17487867,Finance,1,1,data visualization,25
+Data Visualization with Advanced Excel,74,0,4.8,1,60.0,55903046,AI,6,1,data visualization,5
+Data Visualization with Python,38,0,4.6,2,66.0,36851719,Administration,4,1,data visualization,32
+Data Visualization with Tableau,122,2,4.5,1,96.0,92168284,Management,4,1,data visualization,35
+Data Warehousing for Business Intelligence,127,2,4.5,0,140.0,12232679,Feature Engineering,5,1,business data intelligence,19
+Data and Health Indicators in Public Health Practice,48,0,4.7,1,18.0,26541606,Accounts,5,0,Other,57
+Data-driven Decision Making,74,0,4.6,1,120.0,81980258,AI,2,0,Other,49
+Databases and SQL for Data Science,38,0,4.7,1,110.0,32223401,Kaggle,2,1,science data,13
+De-Mystifying Mindfulness,116,0,4.8,1,150.0,94422105,Administration,4,0,Other,54
+Decision-Making and Scenarios,138,0,4.6,3,31.0,5160391,Leadership,3,0,Other,33
+Deep Learning,150,2,4.8,2,690.0,38841815,Leadership,3,1,deep learning,30
+Democracia y decisiones públicas. Introducción al análisis de políticas públicas,114,0,4.8,1,44.0,10746590,Kaggle,6,0,Other,5
+Dentistry 101,135,0,4.7,1,4.5,57353032,Leadership,1,0,Other,42
+Dermatology: Trip to skin,68,0,4.4,1,8.2,96312457,AI,3,0,Other,30
+Design Thinking for Innovation,141,0,4.6,1,240.0,32469513,AI,6,0,Other,56
+Design Thinking for the Greater Good: Innovation in the Social Sector,141,0,4.6,1,17.0,64683583,Neural Networks,3,0,Other,45
+Design and Interpretation of Clinical Trials,48,0,4.7,3,67.0,26591431,Reinforcement Learning,3,0,Other,46
+Design and Make Infographics (Project-Centered Course),59,0,4.7,3,97.0,43922166,Pattern Recognition,1,0,Other,51
+Design-Led Strategy: Design thinking for business strategy and entrepreneurship,100,0,4.6,2,19.0,57152110,Kaggle,5,0,Other,14
+Developing APIs with Google Cloud's Apigee API Platform,34,2,4.6,2,16.0,24841330,Analytics,5,0,Other,8
+Developing Applications with Google Cloud Platform,34,2,4.7,2,300.0,69046826,Consulting,1,0,Other,27
+Developing Applications with Google Cloud Platform 日本語版,34,2,4.8,2,4.0,50099581,Business,4,0,Other,46
+Developing Industrial Internet of Things,126,2,4.6,2,8.0,90546319,Pattern Recognition,4,0,Other,48
+Developing Your Musicianship,9,0,4.8,3,41.0,27502127,Accounts,1,0,Other,41
+Developing Your Musicianship,9,2,4.8,1,54.0,95485463,Analytics,6,0,Other,12
+Devenir entrepreneur du changement,102,0,4.7,3,54.0,18220583,Consulting,6,0,Other,59
+Digital Advertising Strategy,126,2,4.4,1,9.0,1991222,Artificial Intelligence,6,0,Other,40
+Digital Business Models,53,0,4.5,1,21.0,66020466,Artificial Intelligence,4,1,business,58
+Digital Manufacturing & Design Technology,118,2,4.6,1,37.0,73376251,Analytics,5,0,Other,28
+Digital Marketing,131,2,4.6,1,380.0,47732175,Pattern Recognition,5,0,Other,40
+Digital Media and Marketing Strategies,131,0,4.4,3,57.0,4276007,Business,1,0,Other,13
+Digital Product Management,141,2,4.7,1,140.0,99813422,Artificial Intelligence,1,1,management,51
+Digital Product Management: Modern Fundamentals,141,0,4.7,1,58.0,14155175,Deep Learning,3,1,,56
+Dino 101: Dinosaur Paleobiology,119,0,4.5,1,35.0,87046725,Reinforcement Learning,3,0,Other,1
+Discrete Optimization,98,0,4.9,2,40.0,89153262,Accounts,3,0,Other,30
+Diseño Instruccional: Aprendizaje activo y Pedagogía digital,87,2,4.6,1,4.0,22085700,Accounts,4,0,Other,32
+Diseño y Creación de un Emprendimiento Social,73,0,4.9,1,21.0,86393901,Consulting,4,0,Other,44
+"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",85,0,4.8,2,130.0,46340632,Analytics,4,0,Other,37
+Dog Emotion and Cognition,20,0,4.6,3,150.0,89958252,Consulting,2,0,Other,50
+Driving business towards the Sustainable Development Goals,28,0,4.8,1,5.6,88752340,Analytics,2,0,Other,31
+Drug Commercialization,121,0,4.7,1,17.0,77429744,Data Science,3,0,Other,7
+Drug Discovery,121,0,4.6,1,39.0,28871024,Accounts,2,0,Other,22
+Dynamic Public Speaking,142,2,4.7,1,110.0,58010482,Random Forest,4,0,Other,1
+EMT Foundations,127,0,4.8,1,7.1,98131355,Artificial Intelligence,1,0,Other,59
+Ecology: Ecosystem Dynamics and Conservation,3,0,4.8,2,18.0,32062336,Pattern Recognition,2,0,Other,2
+Econometrics: Methods and Applications,28,0,4.7,3,110.0,38650087,Neural Networks,3,0,Other,48
+Economics of Money and Banking,16,0,4.9,3,83.0,68798930,Accounts,2,0,Other,11
+Ecosystem Services: a Method for Sustainable Development,130,0,4.7,2,16.0,6263564,Leadership,2,0,Other,56
+Effective Compliance Programs,138,0,4.9,3,3.4,25336194,Neural Networks,2,0,Other,4
+Egiptología (Egyptology),114,0,4.9,1,46.0,16802037,Reinforcement Learning,5,0,Other,56
+El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho,108,0,5.0,1,1.5,41605671,Leadership,4,0,Other,7
+Elastic Google Cloud Infrastructure: Scaling and Automation,34,0,4.7,2,57.0,42497647,Management,2,0,Other,29
+Electric Industry Operations and Markets,20,0,4.8,1,12.0,60705854,Administration,4,0,Other,51
+Electronic Music Production,9,2,4.8,2,110.0,49680968,Kaggle,3,0,Other,55
+Emerging Technologies: From Smartphones to IoT to Big Data,149,2,4.6,1,17.0,16476953,Analytics,1,0,Other,5
+"Energy Production, Distribution & Safety",118,2,4.7,1,37.0,4662107,Neural Networks,3,0,Other,14
+Engineering Health: Introduction to Yoga and Physiology,66,0,4.8,1,14.0,52477219,Feature Engineering,2,0,Other,5
+Engineering Project Management: Initiating and Planning,76,0,4.7,1,23.0,76385668,Administration,3,1,engineering,0
+English Composition I,20,0,4.6,1,200.0,92689390,Reinforcement Learning,3,0,Other,3
+English for Business and Entrepreneurship,138,0,4.8,1,230.0,83963832,Business,4,1,business,16
+English for Career Development,138,0,4.8,3,760.0,30275280,Leadership,5,0,Other,42
+English for Journalism,138,0,4.8,3,130.0,86567324,Reinforcement Learning,2,0,Other,5
+English for Research Publication Purposes,60,2,4.6,2,42.0,46739154,Reinforcement Learning,6,0,Other,6
+"English for Science, Technology, Engineering, and Mathematics",138,0,4.8,1,110.0,28244702,Reinforcement Learning,1,0,Other,23
+Enterprise Architecture,72,0,4.4,1,2.4,9215872,Kaggle,5,0,Other,45
+Entrepreneurial Finance: Strategy and Innovation,20,2,4.5,2,7.9,44271241,Random Forest,4,1,,7
+Entrepreneurship,138,2,4.8,1,110.0,54496135,Neural Networks,2,0,Other,23
+Entrepreneurship 1: Developing the Opportunity,138,0,4.8,3,86.0,27929936,Leadership,3,0,Other,52
+Entrepreneurship 2: Launching your Start-Up,138,0,4.8,3,38.0,19529882,Leadership,5,0,Other,50
+Entrepreneurship 3: Growth Strategies,138,0,4.7,1,31.0,94089046,Kaggle,3,0,Other,1
+Entrepreneurship Strategy: From Ideation to Exit,35,0,4.8,1,20.0,6777491,Artificial Intelligence,3,0,Other,50
+Entrepreneurship: Launching an Innovative Business,134,2,4.6,1,69.0,93939225,Pattern Recognition,6,1,business,46
+Epidemics - the Dynamics of Infectious Diseases,93,0,4.8,3,45.0,40641295,Accounts,6,0,Other,38
+"Epidemics, Pandemics and Outbreaks",139,0,4.7,3,23.0,79151779,Accounts,4,0,Other,14
+Epidemiology for Public Health,44,2,4.7,1,6.4,11094804,Data Visualization,2,0,Other,11
+Epidemiology in Public Health Practice,48,2,4.7,1,31.0,57000764,Machine Learning,2,0,Other,48
+Epidemiology: The Basic Science of Public Health,99,0,4.6,3,130.0,76169622,Machine Learning,4,0,Other,27
+Epigenetic Control of Gene Expression,98,0,4.8,3,35.0,43601172,AI,6,0,Other,13
+Equine Welfare and Management,122,0,4.8,1,7.2,35646624,Artificial Intelligence,4,1,management,15
+Esports,123,2,4.5,1,1.8,49321881,Business,2,0,Other,30
+Essential Epidemiologic Tools for Public Health Practice,48,0,4.7,1,14.0,19445991,Administration,3,0,Other,23
+Essential Google Cloud Infrastructure: Core Services,34,0,4.7,2,68.0,21163005,Accounts,6,0,Other,42
+Essential Google Cloud Infrastructure: Foundation,34,0,4.7,2,83.0,24131152,Data Science,5,0,Other,16
+Essentials in Clinical Simulations Across the Health Professions,89,0,4.8,2,4.1,3755665,Reinforcement Learning,3,0,Other,54
+Essentials of Corporate Finance,98,2,4.6,2,54.0,91002413,Random Forest,6,1,finance,55
+Essentials of Global Health,148,0,4.8,3,31.0,7343992,Finance,1,0,Other,2
+Estadística y probabilidad,109,0,4.7,1,27.0,92713812,Neural Networks,4,0,Other,8
+Evaluación educativa,109,2,4.8,1,13.0,1095613,Neural Networks,6,0,Other,31
+"Everyday Excel, Part 1",126,0,4.8,1,11.0,65621344,Management,4,0,Other,28
+Everyday Parenting: The ABCs of Child Rearing,148,0,4.9,1,86.0,54692763,Feature Engineering,6,0,Other,29
+Excel Skills for Business,55,2,4.9,1,240.0,4184170,Accounts,5,1,business,20
+Excel Skills for Business: Advanced,55,0,4.7,2,39.0,94146677,Finance,5,1,,39
+Excel Skills for Business: Essentials,55,0,4.9,1,200.0,73076926,Kaggle,1,1,,34
+Excel Skills for Business: Intermediate I,55,0,4.9,2,76.0,87913119,Business,5,1,,45
+Excel Skills for Business: Intermediate II,55,0,4.8,2,39.0,43566383,Deep Learning,3,1,,48
+Excel to MySQL: Analytic Techniques for Business,20,2,4.6,1,490.0,29138316,Data Visualization,1,1,business,5
+Excel/VBA for Creative Problem Solving,126,2,4.8,1,56.0,18592795,Leadership,3,0,Other,29
+"Excel/VBA for Creative Problem Solving, Part 1",126,0,4.8,1,54.0,11271949,Analytics,6,0,Other,7
+Executive Data Science,48,2,4.5,1,170.0,67094985,Business,2,1,science data,13
+Explorando la Energía Sustentable,73,0,4.8,1,28.0,82179679,Machine Learning,4,0,Other,57
+Fashion as Design,92,0,4.8,1,180.0,21201111,Leadership,2,0,Other,46
+Feminism and Social Justice,124,0,4.8,1,18.0,2596629,Artificial Intelligence,6,0,Other,45
+FinTech Law and Policy,20,0,4.8,1,9.7,36153281,Reinforcement Learning,1,0,Other,39
+FinTech: Finance Industry Transformation and Regulation,90,2,4.6,1,13.0,15287467,Artificial Intelligence,2,1,finance,26
+"FinTech: Foundations, Payments, and Regulations",138,0,4.7,1,12.0,22493397,Management,3,0,Other,50
+Finance & Quantitative Modeling for Analysts,138,2,4.5,1,260.0,22204968,Feature Engineering,1,1,finance,21
+Finance for Non-Finance Professionals,76,0,4.8,1,69.0,66242141,Management,2,1,finance,26
+Finance for Non-Financial Managers,27,0,4.4,2,12.0,43460320,AI,5,1,finance,22
+Financial Accounting Fundamentals,141,0,4.8,1,65.0,56048546,Neural Networks,3,0,Other,38
+Financial Acumen for Non-Financial Managers,138,0,4.5,1,10.0,39008682,Machine Learning,2,0,Other,48
+Financial Engineering and Risk Management Part I,16,0,4.6,3,100.0,98367083,Finance,4,1,engineering management,27
+Financial Management,131,2,4.7,2,76.0,49693337,Data Science,2,1,management,38
+Financial Markets,148,0,4.8,1,470.0,4259460,Artificial Intelligence,6,0,Other,34
+Financial Markets and Investment Strategy,45,2,4.5,1,60.0,13922265,Deep Learning,1,0,Other,54
+Financial Reporting,131,2,4.8,2,12.0,73122085,Leadership,6,0,Other,37
+Financial Technology (Fintech) Innovations,135,2,4.7,1,6.5,91262742,Kaggle,3,0,Other,17
+Financing and Investing in Infrastructure,143,0,4.8,3,24.0,12597879,Data Visualization,5,0,Other,14
+Finanzas corporativas,109,2,4.6,2,30.0,46010439,Management,5,0,Other,30
+Finanzas personales,109,0,4.8,3,310.0,86215086,Deep Learning,4,0,Other,35
+Finding Purpose and Meaning In Life: Living for What Matters Most,135,0,4.7,1,36.0,55180021,Kaggle,5,0,Other,40
+Fintech: Foundations & Applications of Financial Technology,138,2,4.6,1,20.0,1742256,Data Visualization,5,0,Other,16
+First Step Korean,149,0,4.9,1,400.0,52087226,Business,6,0,Other,17
+Food & Beverage Management,143,0,4.8,3,57.0,28875658,Feature Engineering,4,1,management,34
+Forensic Accounting and Fraud Examination,147,0,4.7,3,42.0,21337344,Deep Learning,3,0,Other,45
+Formulación y evaluación de proyectos complejos,111,0,4.9,2,4.4,93661766,Business,1,0,Other,20
+Foundational Finance for Strategic Decision Making,135,2,4.8,1,14.0,10572694,Finance,1,1,finance,11
+Foundations of Business Strategy,141,0,4.8,1,63.0,82970048,Feature Engineering,1,1,business,11
+Foundations of Everyday Leadership,131,0,4.8,3,62.0,75300974,Accounts,3,1,leadership,18
+Foundations of Global Health,48,2,4.7,1,31.0,59282317,Random Forest,2,0,Other,30
+Foundations of Management,41,2,4.8,1,64.0,32486423,Leadership,4,1,management,33
+Foundations of Marketing Analytics,27,2,4.2,2,27.0,8277047,Consulting,6,1,analytics,37
+Foundations of Positive Psychology,138,2,4.8,1,89.0,66874515,Analytics,4,0,Other,52
+Foundations of Public Health Practice,44,2,4.8,1,3.2,95922574,Leadership,5,0,Other,45
+From Data to Insights with Google Cloud Platform,34,2,4.6,1,26.0,17979665,Machine Learning,5,0,Other,14
+From the Big Bang to Dark Energy,101,0,4.8,1,52.0,12614697,Artificial Intelligence,4,0,Other,10
+Front-End Web Development with React,90,0,4.7,2,45.0,47516416,Management,1,0,Other,21
+Front-End Web UI Frameworks and Tools: Bootstrap 4,90,0,4.8,2,89.0,85135722,Kaggle,1,0,Other,2
+Full Stack Web and Multiplatform Mobile App Development,90,2,4.7,2,150.0,531529,Random Forest,6,0,Other,42
+Full-Stack Web Development with React,90,2,4.7,2,140.0,78883369,Pattern Recognition,4,0,Other,49
+Functional Programming Principles in Scala,152,0,4.8,2,170.0,8630661,AI,2,0,Other,15
+Functional Programming in Scala,152,2,4.7,2,220.0,3229110,Reinforcement Learning,4,0,Other,17
+Fundamental Neuroscience for Neuroimaging,48,0,4.6,1,30.0,14640918,AI,3,0,Other,1
+Fundamentals of Accounting,131,2,4.6,1,39.0,45760630,Machine Learning,4,0,Other,32
+Fundamentals of Computing,76,2,4.8,1,200.0,93696003,AI,5,0,Other,37
+Fundamentals of Engineering Exam Review,30,0,4.7,3,49.0,66130563,Random Forest,5,0,Other,54
+Fundamentals of GIS,122,0,4.8,1,86.0,5962546,Management,1,0,Other,50
+Fundamentals of Graphic Design,12,0,4.8,1,290.0,15169746,Business,4,0,Other,47
+Fundamentals of Immunology,76,2,4.7,2,20.0,46133459,Machine Learning,6,0,Other,4
+Fundamentals of Immunology: Innate Immunity and B-Cell Function,76,0,4.7,2,18.0,9028735,Administration,6,0,Other,40
+Fundamentals of Music Theory,96,0,4.6,1,180.0,66834960,Reinforcement Learning,6,0,Other,43
+Fundamentals of Project Planning and Management,141,0,4.7,1,120.0,35893291,Artificial Intelligence,4,1,management,56
+Fundamentals of Quantitative Modeling,138,0,4.6,3,110.0,95607692,Analytics,5,0,Other,31
+Fundamentals of Reinforcement Learning,119,0,4.8,2,22.0,81970053,Finance,3,1,reinforcement learning,10
+Fundamentals of Visualization with Tableau,122,0,4.5,1,81.0,81690722,Analytics,5,0,Other,32
+Fundamentos Empresariales,138,2,4.6,1,25.0,23513303,Leadership,3,0,Other,20
+Fundamentos Estratégicos Empresariales,109,2,4.6,1,56.0,43130085,Finance,6,0,Other,50
+Fundamentos de Excel para Negocios,108,0,4.7,1,150.0,67158600,Management,6,0,Other,17
+Fundamentos de Finanzas Empresariales,111,0,4.8,1,110.0,8940306,Deep Learning,4,0,Other,15
+Fundamentos de la escritura,87,0,4.6,1,47.0,954146,Administration,4,0,Other,3
+Fundraising and Development,122,2,4.6,1,4.9,32738193,Consulting,1,0,Other,32
+Futures Thinking,46,2,4.8,1,9.4,40071157,Neural Networks,5,0,Other,24
+G Suite Administration,34,2,4.7,1,10.0,78689232,Kaggle,3,1,administration,36
+"GIS, Mapping, and Spatial Analysis",140,2,4.8,1,140.0,81465219,Machine Learning,3,0,Other,4
+Game Design and Development,59,2,4.7,2,100.0,5795513,Management,6,0,Other,53
+Game Theory,85,0,4.6,1,260.0,6460294,Feature Engineering,5,0,Other,6
+Gamification,138,0,4.8,3,110.0,92477762,Random Forest,5,0,Other,14
+Gender and Sexuality: Diversity and Inclusion in the Workplace,139,0,4.7,1,14.0,28806797,Data Visualization,4,0,Other,46
+Genomic Data Science,48,2,4.4,2,80.0,12511441,Data Visualization,2,1,science data,36
+Geographic Information Systems  (GIS),122,2,4.8,1,97.0,79262371,Pattern Recognition,5,0,Other,53
+Geopolitics of Europe,82,0,4.3,3,19.0,78498801,Management,2,0,Other,25
+Geopolítica y gobernanza global: riesgos y oportunidades,23,0,4.8,3,34.0,60469359,Machine Learning,1,0,Other,27
+Gestión de organizaciones efectivas,73,0,4.7,3,47.0,76742066,Data Science,5,0,Other,32
+Get Interactive: Practical Teaching with Technology,11,0,4.7,1,14.0,85959775,Feature Engineering,5,0,Other,36
+Getting Started With Music Theory,59,0,4.5,1,59.0,85313549,Random Forest,3,0,Other,58
+Getting Started with AWS Machine Learning,1,0,4.5,2,73.0,26326257,Administration,3,1,learning machine,57
+Getting Started with Go,123,0,4.6,2,59.0,42087203,Feature Engineering,3,0,Other,11
+Getting Started with Google Kubernetes Engine,34,0,4.5,2,75.0,98444513,Accounts,6,0,Other,54
+Getting Started with Google Sheets,34,0,4.6,1,18.0,36774486,Neural Networks,5,0,Other,9
+Getting Started with SAS Programming,79,0,4.9,1,22.0,62608862,Machine Learning,3,0,Other,0
+Global Diplomacy – Diplomacy in the Modern World,80,0,4.6,3,79.0,84650314,Random Forest,4,0,Other,24
+Global Diplomacy: the United Nations in the World,80,0,4.7,1,29.0,87681066,Finance,6,0,Other,7
+Global Energy and Climate Policy,80,0,4.5,1,10.0,60265377,Analytics,1,0,Other,56
+Global Environmental Management,86,0,4.6,2,22.0,34985529,Pattern Recognition,4,1,management,56
+Global Financial Markets and Instruments,76,0,4.6,3,37.0,69023195,Administration,5,0,Other,49
+Global Financing Solutions  (by EDHEC and Société Générale),22,0,4.6,2,3.6,328653,Random Forest,3,0,Other,33
+Global Trends for Business and Society,138,0,4.8,3,7.6,35054237,Artificial Intelligence,1,1,business,10
+"Globalization, Economic Growth and Stability",39,2,4.8,2,44.0,75885161,Data Science,4,0,Other,33
+Good with Words: Writing and Editing,135,2,4.6,1,3.8,64660404,Deep Learning,2,0,Other,23
+Google Cloud Platform Big Data and Machine Learning Fundamentals,34,0,4.6,2,120.0,7988492,Finance,3,1,data learning machine,39
+Google Cloud Platform Fundamentals for AWS Professionals,34,0,4.7,2,36.0,71961932,AI,4,0,Other,55
+Google IT Automation with Python,32,1,4.7,1,93.0,61000944,Machine Learning,4,0,Other,8
+Google IT Support,32,1,4.8,1,350.0,44471820,Deep Learning,1,0,Other,6
+Grammar and Punctuation,123,0,4.7,3,430.0,10461821,Random Forest,5,0,Other,58
+Graphic Design Elements for Non-Designers,126,2,4.7,1,10.0,59632983,Machine Learning,4,0,Other,42
+Greek and Roman Mythology,138,0,4.8,3,260.0,74557638,Data Visualization,1,0,Other,9
+Greening the Economy: Sustainable Cities,53,0,4.6,1,56.0,19872545,Kaggle,3,0,Other,30
+Guitar for Beginners,9,0,4.8,3,210.0,63490555,Reinforcement Learning,6,0,Other,20
+Gut Check: Exploring Your Microbiome,121,0,4.7,3,62.0,7060848,Accounts,1,0,Other,16
+"HTML, CSS, and Javascript for Web Developers",48,0,4.8,3,240.0,20534253,Management,2,0,Other,13
+Habilidades Gerenciales,109,2,4.7,1,43.0,35826716,Management,5,0,Other,19
+Hacia una práctica constructivista en el aula,73,0,4.8,3,62.0,77802059,Consulting,4,0,Other,44
+Hardware Description Languages for FPGA Design,126,0,4.2,2,7.4,28329957,Pattern Recognition,4,0,Other,47
+Healing with the Arts,129,0,4.6,3,39.0,89031609,Pattern Recognition,4,0,Other,0
+Health Informatics,48,2,4.5,1,8.1,98309792,Leadership,4,0,Other,28
+Health Information Literacy for Data Analytics,122,2,4.5,2,5.4,16335569,Data Science,1,1,data analytics,58
+Healthcare Law,138,2,4.7,2,1.7,2671482,Artificial Intelligence,5,0,Other,19
+Healthcare Marketplace,136,2,4.4,1,36.0,72872069,Leadership,5,0,Other,6
+Healthcare Organization Operations,78,2,4.6,1,5.5,76437251,Accounts,2,0,Other,40
+"High Performance Collaboration: Leadership, Teamwork, and Negotiation",67,0,4.8,3,46.0,90092224,Artificial Intelligence,1,1,,38
+Homeland Security and Cybersecurity,127,2,4.7,1,5.5,67246595,AI,2,0,Other,50
+"Hotel Management: Distribution, Revenue and Demand Management",25,2,4.6,1,28.0,78009977,Machine Learning,2,1,management,25
+How Things Work: An Introduction to Physics,141,0,4.8,2,170.0,36552009,Deep Learning,5,0,Other,35
+How To Create a Website in a Weekend! (Project-Centered Course),94,0,3.3,3,140.0,10081332,Machine Learning,4,0,Other,28
+How to Start Your Own Business,59,2,4.1,1,34.0,99991334,Leadership,4,1,business,34
+Human Resource Management: HR for People Managers,136,2,4.7,1,98.0,60469327,Consulting,4,1,,17
+IBM AI Engineering,38,1,4.6,2,140.0,27045033,AI,4,1,ai engineering,30
+IBM AI Enterprise Workflow,38,2,4.4,0,3.5,89276309,AI,6,1,ai,8
+IBM Applied AI,38,1,4.6,1,220.0,7359212,Management,4,1,ai,8
+IBM Customer Engagement Specialist Professional Certificate,38,0,4.8,1,3.3,5678103,Deep Learning,4,0,Other,26
+IBM Data Science,38,1,4.6,1,480.0,25485106,Artificial Intelligence,4,1,science data,2
+IT Fundamentals for Cybersecurity,38,2,4.5,1,35.0,13009117,Finance,5,0,Other,51
+IT Security: Defense against the digital dark arts,32,0,4.8,1,62.0,41074767,Kaggle,6,0,Other,19
+"Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery",0,0,4.9,1,1.7,62107826,Data Visualization,1,0,Other,11
+Implementación del Marketing Mix,39,2,4.7,1,23.0,51941951,AI,1,0,Other,53
+Implementing RPA with Cognitive Automation and Analytics,7,2,4.6,1,2.2,55371661,Administration,3,1,analytics,41
+Improve Your English Communication Skills,30,2,4.7,1,610.0,11937801,Leadership,5,0,Other,2
+"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",150,0,4.9,1,270.0,53493470,Deep Learning,5,1,deep neural,22
+Improving Leadership & Governance in Nonprofit Organizations,54,2,4.4,1,18.0,97516117,Data Visualization,2,1,leadership,43
+In the Studio: Postwar Abstract Painting,92,0,4.9,1,79.0,32978934,Artificial Intelligence,2,0,Other,28
+Indigenous Canada,119,0,4.8,3,51.0,79924741,Data Science,2,0,Other,48
+Industrial IoT on Google Cloud Platform,34,0,4.5,1,34.0,63798599,Accounts,3,0,Other,11
+Infectious Disease Modelling,44,2,5.0,2,1.6,76205948,Administration,4,0,Other,56
+Influencer Marketing Strategy,78,0,4.4,2,12.0,65794747,Random Forest,6,0,Other,2
+"Influencing: Storytelling, Change Management and Governance",55,2,4.8,1,22.0,43950779,Consulting,4,1,management,40
+Information Security: Context and Introduction,77,0,4.6,1,32.0,23497705,Pattern Recognition,3,0,Other,30
+Information Visualization,66,2,4.6,1,10.0,9356901,Consulting,5,0,Other,29
+Information​ ​Systems,136,2,4.7,1,16.0,11324530,Administration,3,0,Other,33
+Initiating and Planning Projects,123,0,4.7,3,180.0,10092621,Business,6,0,Other,2
+Innovation Management,28,0,4.6,1,40.0,76734993,Management,4,1,management,27
+"Innovation Through Design: Think, Make, Break, Repeat",100,0,4.8,1,10.0,83731331,AI,1,0,Other,31
+Innovation: From Creativity to Entrepreneurship,131,2,4.8,1,25.0,81761685,Kaggle,6,0,Other,27
+Inspirational Leadership: Leading with Sense,35,2,4.5,1,72.0,88479716,Business,6,1,,50
+Inspired Leadership,13,2,4.7,2,97.0,35876851,Feature Engineering,3,1,leadership,46
+Inspiring and Motivating Individuals,135,0,4.8,3,85.0,67408812,Data Visualization,6,0,Other,34
+Instructional Design Foundations and Applications,131,0,4.2,3,12.0,82027995,Random Forest,4,0,Other,43
+Instructional Methods in Health Professions Education,135,0,4.6,2,9.7,13230423,Deep Learning,1,0,Other,9
+Integrative Health and Medicine,136,2,4.8,1,14.0,34839,Data Science,1,0,Other,51
+Intellectual Property Law,138,2,4.8,2,8.7,20965584,Management,3,0,Other,22
+Interaction Design,121,2,4.5,2,150.0,91576384,Artificial Intelligence,4,0,Other,16
+Intercultural Management,24,0,4.6,1,6.5,80767254,Analytics,5,1,management,20
+International Business Essentials,133,2,4.5,2,22.0,12964234,Data Science,6,1,business,46
+International Cyber Conflicts,94,0,4.4,3,25.0,84717406,Data Science,4,0,Other,16
+International Humanitarian Law in Theory and Practice,49,0,4.8,1,22.0,17465173,Feature Engineering,4,0,Other,13
+International Law in Action: A Guide to the International Courts and Tribunals in The Hague,116,0,4.8,3,36.0,26668189,Data Visualization,1,0,Other,43
+International Law in Action: the Arbitration of International Disputes,116,0,4.8,3,19.0,16814803,Random Forest,2,0,Other,52
+International Leadership and Organizational Behavior,143,0,4.8,3,41.0,88393965,Management,5,1,leadership,15
+International Marketing & Cross Industry Growth,149,2,4.6,1,26.0,82806758,Analytics,3,0,Other,35
+International Organizations Management,130,0,4.8,1,20.0,6491853,Accounts,1,1,management,11
+International Security Management,28,0,4.5,1,2.2,2382736,Neural Networks,4,1,management,16
+International Women's Health and Human Rights,85,0,4.9,1,35.0,79123370,Finance,5,0,Other,11
+International migrations: a global issue,82,0,4.6,1,11.0,39368867,Pattern Recognition,6,0,Other,8
+Internet Connection: How to Get Online?,14,0,4.7,1,36.0,56842278,Analytics,5,0,Other,30
+Internet Giants: The Law and Economics of Media Platforms,95,0,4.8,3,38.0,63810977,Machine Learning,3,0,Other,9
+Interviewing and Resume Writing in English,134,2,4.6,2,66.0,54359733,Pattern Recognition,5,0,Other,27
+Introducción a Data Science: Programación Estadística con R,109,0,4.7,1,140.0,18799539,Data Visualization,4,1,data,10
+Introducción a la programación en Python I: Aprendiendo a programar con Python,73,0,4.4,1,100.0,31033247,Administration,5,0,Other,25
+Introduction aux Droits de l’Homme,130,0,4.8,3,46.0,59744642,Consulting,3,0,Other,52
+Introduction to Ableton Live,9,0,4.8,3,60.0,78428631,Machine Learning,2,0,Other,36
+Introduction to Artificial Intelligence (AI),38,0,4.7,1,44.0,33821809,Administration,6,1,intelligence artificial,12
+Introduction to Big Data,121,0,4.6,3,160.0,2266084,AI,3,0,Other,18
+Introduction to Blockchain Technologies,42,0,4.7,1,16.0,14526651,Administration,2,0,Other,8
+Introduction to Breast Cancer,148,0,4.9,3,27.0,28488500,Administration,2,0,Other,21
+Introduction to Business Analytics: Communicating with Data,131,0,4.7,2,14.0,96117340,Neural Networks,5,1,business data,26
+Introduction to CSS3,135,0,4.8,3,84.0,42697587,Random Forest,1,0,Other,38
+Introduction to Calculus,100,0,4.8,2,53.0,49749399,Artificial Intelligence,2,0,Other,20
+Introduction to Chemistry:  Reactions and Ratios,20,0,4.8,1,46.0,42272207,Neural Networks,3,0,Other,4
+Introduction to Classical Music,148,0,4.9,3,150.0,86610146,Pattern Recognition,1,0,Other,37
+Introduction to Cloud Computing,38,0,4.6,1,2.6,80063508,Neural Networks,6,0,Other,2
+Introduction to Computer Programming,31,0,4.3,1,20.0,15395734,Leadership,2,0,Other,53
+Introduction to Computer Science and Programming,31,2,4.3,1,32.0,66607319,Business,2,0,Other,45
+Introduction to Corporate Finance,138,0,4.6,3,130.0,54987967,Deep Learning,1,1,finance,0
+Introduction to Cyber Attacks,66,0,4.7,1,27.0,89751389,AI,4,0,Other,12
+Introduction to Cyber Security,66,2,4.7,1,32.0,6273097,Management,3,0,Other,13
+Introduction to Cybersecurity Tools & Cyber Attacks,38,0,4.5,1,30.0,57829043,Artificial Intelligence,5,0,Other,47
+Introduction to Data Analysis Using Excel,76,0,4.7,3,99.0,18981954,Neural Networks,6,0,Other,44
+Introduction to Data Science,38,2,4.6,1,310.0,56934401,Administration,2,1,science data,33
+Introduction to Data Science in Python,135,0,4.5,2,390.0,81717448,Kaggle,3,1,science data,19
+Introduction to Dental Medicine,138,0,4.8,1,25.0,43402704,Analytics,2,0,Other,9
+Introduction to Discrete Mathematics for Computer Science,63,2,4.4,1,75.0,53479871,Leadership,1,0,Other,53
+Introduction to Electronics,30,0,4.7,3,110.0,36512757,Reinforcement Learning,2,0,Other,55
+Introduction to Embedded Systems Software and Development Environments,126,0,4.5,2,41.0,94483476,Kaggle,4,0,Other,41
+Introduction to Engineering Mechanics,30,0,4.7,3,150.0,86241007,Management,4,0,Other,36
+Introduction to Environmental Law and Policy,99,0,4.8,3,34.0,8969085,Artificial Intelligence,6,0,Other,17
+Introduction to Financial Accounting,138,0,4.7,3,200.0,4273173,Consulting,2,0,Other,41
+Introduction to Forensic Science,61,0,4.9,3,47.0,53493320,Accounts,1,0,Other,59
+Introduction to Game Development,59,0,4.8,3,79.0,31145885,Data Visualization,6,0,Other,59
+Introduction to Genetics and Evolution,20,0,4.8,3,74.0,3123528,Leadership,2,0,Other,23
+Introduction to Genomic Technologies,48,0,4.6,3,42.0,67520734,Reinforcement Learning,3,0,Other,48
+Introduction to HTML5,135,0,4.7,3,220.0,15618528,Kaggle,5,0,Other,26
+Introduction to Imagemaking,12,0,4.5,1,54.0,64382370,Analytics,5,0,Other,5
+Introduction to Intellectual Property,138,0,4.8,1,6.0,9861158,Accounts,3,0,Other,27
+Introduction to International Criminal Law,13,0,4.8,3,82.0,71392561,Accounts,5,0,Other,52
+Introduction to Marketing,138,0,4.8,3,220.0,83745026,Administration,6,0,Other,18
+Introduction to Mathematical Thinking,85,0,4.8,2,270.0,79717223,Pattern Recognition,1,0,Other,51
+Introduction to Operations Management,138,0,4.5,3,87.0,88295228,Data Science,6,1,management,15
+Introduction to Personal Branding,141,0,4.4,1,140.0,61526482,Machine Learning,1,0,Other,0
+Introduction to Philosophy,96,0,4.6,3,370.0,33375876,Deep Learning,5,0,Other,16
+Introduction to Portfolio Construction and Analysis with Python,22,0,4.8,3,11.0,18244040,AI,4,0,Other,59
+Introduction to Probability and Data,20,0,4.7,1,160.0,65785254,Data Visualization,5,0,Other,17
+Introduction to Programming in C,20,2,4.7,1,82.0,97426082,Finance,3,0,Other,21
+Introduction to Programming with MATLAB,145,0,4.8,1,270.0,65807625,Pattern Recognition,4,0,Other,41
+Introduction to Psychology,148,0,4.9,1,270.0,10393266,Administration,6,0,Other,0
+Introduction to Scripting in Python,76,2,4.7,1,49.0,4350520,Data Visualization,1,0,Other,21
+Introduction to Self-Driving Cars,140,0,4.8,0,39.0,15223660,AI,1,0,Other,20
+Introduction to Spreadsheets and Models,138,0,4.2,3,76.0,80289429,Finance,2,0,Other,56
+Introduction to Statistics & Data Analysis in Public Health,44,0,4.7,1,12.0,13593859,Data Visualization,1,0,Other,36
+Introduction to Sustainability,131,0,4.8,3,69.0,70592500,Analytics,1,0,Other,2
+Introduction to Systematic Review and Meta-Analysis,48,0,4.8,3,67.0,58372940,Accounts,6,0,Other,18
+Introduction to Systems Engineering,106,0,4.7,3,33.0,36479084,Deep Learning,2,0,Other,53
+"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",150,0,4.7,2,150.0,42080160,Data Visualization,6,1,deep learning machine artificial,32
+Introduction to Thermodynamics: Transferring Energy from Here to There,135,0,4.8,1,4.1,26319375,Reinforcement Learning,6,0,Other,45
+"Introduction to Trading, Machine Learning & GCP",65,0,4.0,2,13.0,41097441,Data Visualization,5,1,learning machine,26
+Introduction to Typography,12,0,4.8,1,72.0,18402860,Random Forest,5,0,Other,26
+Introduction to User Experience Design,30,0,4.5,1,87.0,52913985,Feature Engineering,5,0,Other,16
+Introduction to User Experience Principles and Processes,135,0,4.8,1,16.0,66081784,Administration,4,0,Other,50
+Introduction to Web Development,122,0,4.7,1,76.0,54974284,Administration,6,0,Other,32
+Introduction to the Biology of Cancer,48,0,4.8,1,110.0,99132729,Data Science,3,0,Other,54
+Introductory Human Physiology,20,0,4.7,3,270.0,92503867,Management,5,0,Other,2
+Introdução aos Princípios e Práticas da Gestão De Projetos,113,2,4.9,1,4.5,89028101,AI,2,0,Other,5
+Introdução à Ciência da Computação com Python Parte 1,113,0,4.9,1,120.0,60390724,Data Science,2,0,Other,11
+Investment Management,130,2,4.7,1,99.0,14402590,Random Forest,3,1,management,0
+Investment Management with Python and Machine Learning,22,2,4.6,1,14.0,75889161,Kaggle,1,1,learning machine management,28
+Investment and Portfolio Management,76,2,4.5,1,49.0,94353647,Finance,2,1,management,52
+Japanese for beginners 1,81,0,4.6,1,4.4,60062176,Deep Learning,2,0,Other,45
+Java Programming and Software Engineering Fundamentals,20,2,4.6,1,380.0,45404630,Finance,6,0,Other,53
+Java Programming: Solving Problems with Software,20,0,4.6,1,160.0,65524617,Leadership,1,0,Other,8
+Julia Scientific Programming,125,0,4.5,1,22.0,62692101,Artificial Intelligence,2,0,Other,57
+Kotlin for Java Developers,47,0,4.7,2,37.0,82767776,Machine Learning,6,0,Other,57
+L'excellence opérationnelle en pratique,25,0,4.7,1,8.0,47940065,Pattern Recognition,3,0,Other,50
+"L'impact investing, la finance qui change le monde",25,2,4.6,1,6.3,37166362,Leadership,1,0,Other,46
+Leadership Development for Engineers,76,2,4.7,1,17.0,80800157,Accounts,1,1,leadership,20
+Leadership in 21st Century Organizations,18,0,4.7,3,34.0,46539900,Data Science,1,1,leadership,30
+Leading Healthcare Quality and Safety,89,0,4.8,1,16.0,64789042,Management,5,0,Other,14
+Leading People and Teams,135,2,4.7,1,220.0,28421661,Feature Engineering,2,0,Other,32
+"Leading for Equity, Diversity and Inclusion in Higher Education",135,0,4.7,2,5.9,53850513,Machine Learning,6,0,Other,41
+Leading: Human Resource Management and Leadership,55,2,4.8,2,16.0,56267419,Pattern Recognition,3,1,leadership management,0
+Learn Chinese: HSK Test Preparation,71,2,4.8,1,43.0,58650099,Data Visualization,2,0,Other,3
+Learn English,103,2,4.3,1,22.0,78609649,Artificial Intelligence,5,0,Other,10
+Learn English: Advanced Academic Speaking and Listening,123,2,4.5,2,78.0,33862462,Reinforcement Learning,6,0,Other,7
+Learn English: Advanced Grammar and Punctuation,123,2,4.8,0,52.0,16918262,Machine Learning,2,0,Other,1
+Learn English: Intermediate Grammar,123,2,4.7,2,120.0,37489401,Random Forest,3,0,Other,7
+Learn Mandarin Chinese,84,2,4.8,1,39.0,58592762,Accounts,1,0,Other,45
+Learn SQL Basics for Data Science,122,2,4.6,1,160.0,49082971,Neural Networks,6,1,science data,15
+Learn Spanish: Basic Spanish Vocabulary,122,2,4.6,1,80.0,37245172,Feature Engineering,5,0,Other,8
+Learn to Program: The Fundamentals,140,0,4.8,1,180.0,42137498,Reinforcement Learning,4,0,Other,26
+Learn to Speak Korean 1,149,0,4.9,1,120.0,17720228,Reinforcement Learning,6,0,Other,18
+Learning to Teach Online,106,0,4.7,1,68.0,10472112,Feature Engineering,3,0,Other,39
+Legal Tech & Startups,39,0,4.5,2,7.2,65730787,Accounts,5,0,Other,45
+Les Fondamentaux de la Négociation,25,0,4.7,1,10.0,7283738,Pattern Recognition,4,0,Other,6
+Liderazgo efectivo para el siglo XXI,111,2,4.8,2,23.0,57381783,Neural Networks,2,0,Other,8
+Linear Circuits 1: DC Analysis,30,0,4.6,3,29.0,97530117,Business,2,0,Other,33
+Love as a Force for Social Justice,85,0,4.7,1,14.0,50648027,AI,1,0,Other,21
+Machine Learning,142,2,4.6,2,290.0,71281534,Machine Learning,5,1,learning machine,0
+Machine Learning,85,0,4.9,3,3.2,76353821,Reinforcement Learning,2,1,learning machine,51
+Machine Learning Foundations: A Case Study Approach,142,0,4.6,3,240.0,48811111,Pattern Recognition,4,1,learning machine,31
+Machine Learning and Reinforcement Learning in Finance,66,2,3.7,2,29.0,52568264,Neural Networks,6,1,reinforcement finance learning machine,31
+Machine Learning for All,133,0,4.6,1,19.0,23172921,Pattern Recognition,2,1,learning machine,31
+Machine Learning for Business Professionals,34,0,4.6,2,58.0,62713615,Kaggle,4,1,business learning machine,36
+Machine Learning for Trading,34,2,3.9,2,15.0,52521634,Neural Networks,3,1,learning machine,5
+Machine Learning with Python,38,0,4.7,2,120.0,33524798,Artificial Intelligence,5,1,learning machine,55
+Machine Learning with TensorFlow on Google Cloud Platform,34,2,4.5,2,72.0,93777706,Administration,1,1,learning machine,39
+Magic in the Middle Ages,115,0,4.6,1,78.0,63162941,Administration,4,0,Other,1
+Making Architecture,40,0,4.7,1,43.0,41625846,Pattern Recognition,4,0,Other,39
+Management of Fashion and Luxury Companies,143,0,4.7,3,120.0,90263803,Neural Networks,1,1,management,1
+Managerial Accounting Fundamentals,141,0,4.9,1,11.0,76342873,Pattern Recognition,6,0,Other,18
+Managerial Economics and Business Analysis,131,2,4.7,1,55.0,97008586,Data Science,2,1,business,6
+Managing Innovation and Design Thinking,35,2,4.7,1,23.0,33784264,Artificial Intelligence,2,0,Other,31
+Managing Project Risks and Changes,123,0,4.7,3,71.0,48088838,Feature Engineering,2,0,Other,50
+Managing Social and Human Capital,138,0,4.5,1,27.0,23527798,Administration,1,0,Other,2
+Managing Your Health: The Role of Physical Therapy and Exercise,140,0,4.6,1,47.0,72879584,AI,4,0,Other,52
+Market Research,122,2,4.5,1,22.0,84063147,Deep Learning,5,0,Other,26
+Marketing Digital,113,0,4.8,1,81.0,69085527,Administration,6,0,Other,8
+Marketing Digital,108,2,4.7,1,39.0,71117599,Reinforcement Learning,4,0,Other,51
+Marketing Gerencial,110,0,4.7,2,49.0,14371157,Pattern Recognition,2,0,Other,25
+Marketing Mix Implementation,39,2,4.6,1,93.0,93329437,Machine Learning,4,0,Other,11
+Marketing Strategy,39,2,4.4,1,57.0,14030315,Leadership,4,0,Other,53
+Marketing Verde,111,0,4.8,3,58.0,80723706,Analytics,6,0,Other,2
+Marketing con Redes Sociales,87,2,4.4,2,60.0,16724055,Administration,2,0,Other,54
+Marketing in a Digital World,131,0,4.7,1,310.0,68589195,Kaggle,4,0,Other,42
+Mastering Data Analysis in Excel,20,0,4.2,3,280.0,74435240,Neural Networks,4,0,Other,43
+Mastering Final Cut Pro,50,0,4.6,1,8.4,17882787,Consulting,4,0,Other,36
+Mastering Software Development in R,48,2,4.3,1,52.0,55816254,Kaggle,4,0,Other,16
+Materials Science: 10 Things Every Engineer Should Know,122,0,4.7,3,48.0,24902474,Leadership,6,0,Other,35
+Mathematics for Data Science,63,2,4.5,1,12.0,95281347,Data Science,2,1,science data,10
+Mathematics for Machine Learning,44,2,4.6,1,150.0,18264725,Administration,2,1,learning machine,15
+Mathematics for Machine Learning: Linear Algebra,44,0,4.7,1,140.0,98295665,Administration,2,1,machine,6
+Mathematics for Machine Learning: Multivariate Calculus,44,0,4.7,1,51.0,50013334,Machine Learning,2,1,machine,47
+Mathematics for Machine Learning: PCA,44,0,4.0,2,33.0,524096,Kaggle,3,1,machine,14
+Medical Cannabis: The Health Effects of THC and CBD,126,2,4.8,1,4.8,15576652,Neural Networks,1,0,Other,48
+Medical Neuroscience,20,0,4.9,0,170.0,35018207,Reinforcement Learning,1,0,Other,46
+Memoir and Personal Essay: Write About Yourself,146,2,4.3,1,13.0,67670003,Data Science,6,0,Other,51
+Methods and Statistics in Social Sciences,120,2,4.6,1,260.0,63845963,Neural Networks,3,0,Other,5
+Microeconomics Principles,131,0,4.9,1,73.0,22480338,Accounts,1,0,Other,9
+Microeconomics: The Power of Markets,138,0,4.7,3,34.0,42687693,Finance,1,0,Other,8
+Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential,58,0,4.8,1,230.0,84865615,Neural Networks,4,0,Other,36
+Miracles of Human Language: An Introduction to Linguistics,116,0,4.7,1,120.0,47238122,Feature Engineering,3,0,Other,31
+Model Thinking,135,0,4.8,3,130.0,31858009,Deep Learning,2,0,Other,43
+Modeling Risk and Realities,138,0,4.6,3,36.0,63786919,Pattern Recognition,2,0,Other,48
+Modern Art & Ideas,92,0,4.7,1,310.0,86479030,Leadership,4,0,Other,31
+Modern Big Data Analysis with SQL,15,2,4.8,1,14.0,69721391,Consulting,6,0,Other,35
+"Modern Robotics:  Mechanics, Planning, and Control",67,2,4.7,2,21.0,98029890,Deep Learning,4,0,Other,7
+Modernizing Data Lakes and Data Warehouses with GCP,34,0,4.7,2,9.1,44341072,Management,5,0,Other,54
+Moral Foundations of Politics,148,0,4.8,3,100.0,1446781,Leadership,2,0,Other,27
+More Introduction to Financial Accounting,138,0,4.9,3,40.0,3800586,Administration,5,0,Other,41
+Mountains 101,119,0,4.9,3,44.0,97181955,Accounts,5,0,Other,33
+Municipal Solid Waste Management in Developing Countries,152,0,4.8,2,59.0,36513754,Data Visualization,5,1,management,35
+Music Business,9,2,4.8,1,42.0,77831157,Management,5,1,business,46
+Music Business Foundations,9,0,4.9,3,34.0,97062549,Leadership,5,1,business,6
+Music Production,9,2,4.8,1,70.0,54824572,Kaggle,1,0,Other,20
+Nanotechnology: A Maker’s Course,20,0,4.8,3,21.0,67336491,Feature Engineering,4,0,Other,36
+Natural Language Processing in TensorFlow,150,0,4.6,2,40.0,56207988,Accounts,4,0,Other,52
+Negociación exitosa: Estrategias y habilidades esenciales (en español),135,0,4.8,3,95.0,72949048,Management,3,0,Other,31
+"Negotiation, Mediation and Conflict Resolution",25,2,4.7,1,22.0,82217714,Deep Learning,6,0,Other,56
+Networking and Security Architecture with VMware NSX,144,0,4.8,2,17.0,69518781,Artificial Intelligence,1,0,Other,10
+Networking in Google Cloud,34,2,4.7,2,290.0,66557341,Artificial Intelligence,1,0,Other,23
+Neural Networks and Deep Learning,150,0,4.9,2,630.0,3266126,Reinforcement Learning,3,1,deep neural learning networks,44
+Neurolinguistics,81,0,4.7,3,41.0,12667067,Data Visualization,3,0,Other,35
+New Approaches to Countering Terror: Countering Violent Extremism,134,0,4.7,1,12.0,44878498,Random Forest,6,0,Other,46
+Newborn Baby Care,127,2,4.8,1,5.3,81569389,Reinforcement Learning,3,0,Other,38
+Nutrición y obesidad: control de sobrepeso,109,0,4.8,1,100.0,83646538,AI,5,0,Other,52
+Nutrition and Lifestyle in Pregnancy,52,0,4.8,2,35.0,42856728,Leadership,2,0,Other,18
+Object Oriented Java Programming: Data Structures and Beyond,121,2,4.7,2,250.0,83792706,Data Visualization,2,0,Other,12
+Object Oriented Programming in Java,20,2,4.6,1,330.0,34818897,Finance,5,0,Other,50
+Object-Oriented Data Structures in C++,131,0,4.7,2,21.0,64902709,Finance,1,0,Other,11
+Object-Oriented Design,119,0,4.7,2,33.0,12503445,Business,3,0,Other,40
+Oil & Gas Industry Operations and Markets,20,0,4.8,3,57.0,95448302,AI,3,0,Other,26
+"Open Source Software Development, Linux and Git",91,2,4.4,1,13.0,35646051,AI,3,0,Other,53
+Operating Systems and You: Becoming a Power User,32,0,4.6,1,76.0,31076036,Random Forest,1,0,Other,33
+Operations Analytics,138,0,4.7,3,80.0,7149321,Leadership,5,1,analytics,42
+Optical Engineering,126,2,4.2,0,6.2,20582678,Data Visualization,1,0,Other,22
+Organizational Leadership,67,2,4.7,2,92.0,4690813,Management,2,1,leadership,57
+Osteoarchaeology: The Truth in Our Bones,116,0,4.7,1,22.0,55840595,Neural Networks,3,0,Other,43
+Palliative Care: It's Not Just Hospice Anymore,127,2,4.8,1,3.2,97677370,Random Forest,4,0,Other,6
+Palo Alto Networks Cybersecurity,70,2,4.6,1,9.1,1005257,Artificial Intelligence,6,0,Other,8
+"Parallel, Concurrent, and Distributed Programming in Java",76,2,4.5,2,30.0,48606785,Finance,5,0,Other,53
+Particle Physics: an Introduction,130,0,4.5,3,42.0,42043479,Management,5,0,Other,51
+Patient Safety,48,2,4.8,1,8.8,70427497,Consulting,3,0,Other,41
+Patrocinio Deportivo,114,0,4.6,1,12.0,6411454,Analytics,3,0,Other,10
+People Analytics,138,0,4.5,3,84.0,18843579,Accounts,1,1,analytics,35
+Perfect Tenses and Modals,123,0,4.7,2,79.0,34909014,Neural Networks,5,0,Other,49
+Periodismo digital y combate a las fake news,109,0,4.9,1,8.9,32908969,Pattern Recognition,5,0,Other,55
+Photography Basics and Beyond: From Smartphone to DSLR,59,2,4.7,1,160.0,41469952,Business,4,0,Other,42
+Plant Bioinformatic Methods,140,2,4.7,1,83.0,48830245,Data Visualization,4,0,Other,7
+Politics and Economics of International Energy,82,0,4.7,1,34.0,39591906,Random Forest,6,0,Other,23
+Positive Psychiatry and Mental Health,100,0,4.8,3,72.0,35907471,Accounts,3,0,Other,29
+Positive Psychology,99,0,4.7,3,180.0,93823110,AI,5,0,Other,17
+Positive Psychology: Applications and Interventions,138,0,4.8,1,23.0,10251233,Data Science,6,0,Other,18
+Positive Psychology: Martin E. P. Seligman’s Visionary Science,138,0,4.8,1,50.0,25715958,Reinforcement Learning,1,0,Other,11
+Positive Psychology: Resilience Skills,138,0,4.6,1,40.0,69241609,Reinforcement Learning,6,0,Other,46
+Power Electronics,126,2,4.8,2,67.0,36818879,Neural Networks,2,0,Other,22
+Practical Data Science with MATLAB,57,2,4.7,1,10.0,19002125,Consulting,1,1,science data,59
+Practical Time Series Analysis,94,0,4.6,2,39.0,86553341,Neural Networks,5,0,Other,38
+Preparing for the Google Cloud Associate Cloud Engineer Exam,34,0,4.7,1,22.0,42225114,Deep Learning,5,0,Other,49
+Preparing to Manage Human Resources,136,0,4.8,3,68.0,64530674,Artificial Intelligence,2,0,Other,28
+"Presentation Skills: Speechwriting, Slides and Delivery",21,2,4.6,1,47.0,92145733,Neural Networks,2,0,Other,1
+Pricing Strategy Optimization,8,2,4.8,1,20.0,92909257,Consulting,1,0,Other,47
+Primeros Auxilios Psicológicos (PAP),114,0,4.8,3,280.0,43677082,Neural Networks,1,0,Other,57
+Private Equity and Venture Capital,143,0,4.8,3,79.0,44737732,Accounts,1,0,Other,50
+Probabilistic Graphical Models 1: Representation,85,0,4.7,0,68.0,4037564,Analytics,3,0,Other,23
+Probability and Statistics: To p or not to p?,133,0,4.6,1,36.0,5154846,Administration,4,0,Other,24
+Process Mining: Data science in Action,26,0,4.8,2,39.0,93618120,AI,5,0,Other,13
+"Programming Foundations with JavaScript, HTML and CSS",20,0,4.6,1,250.0,94669185,Administration,6,0,Other,44
+Programming Fundamentals,20,0,4.7,1,19.0,39257884,AI,6,0,Other,22
+Programming for Everybody (Getting Started with Python),135,0,4.8,3,1.3,83320725,Data Science,4,0,Other,40
+Programming with Google Go,123,2,4.6,2,18.0,73159000,Accounts,1,0,Other,9
+Project Execution,123,0,4.2,1,70.0,36778046,Administration,3,0,Other,1
+Project Launch,123,0,4.7,1,190.0,6310750,Finance,6,0,Other,44
+Project Management & Other Tools for Career Development,123,2,4.6,1,440.0,60569074,Data Science,3,1,management,42
+Project Management Principles and Practices,123,2,4.7,1,230.0,12109308,Data Science,3,1,management,58
+Psychological First Aid,48,0,4.8,3,190.0,44439280,Data Visualization,6,0,Other,36
+Public Policy Challenges of the 21st Century,141,0,4.6,1,52.0,50008724,Management,5,0,Other,39
+Python Basics,135,0,4.8,1,110.0,3296975,Business,1,0,Other,14
+Python Classes and Inheritance,135,0,4.7,2,21.0,20461934,Accounts,2,0,Other,9
+Python Data Structures,135,0,4.9,3,420.0,28700326,Deep Learning,4,0,Other,28
+"Python Functions, Files, and Dictionaries",135,0,4.8,1,26.0,70292802,Artificial Intelligence,2,0,Other,29
+Python and Statistics for Financial Analysis,90,0,4.4,2,41.0,15170678,Pattern Recognition,2,0,Other,52
+Python for Data Science and AI,38,0,4.6,1,170.0,60496949,Management,3,1,science data ai,35
+Python for Everybody,135,2,4.8,1,1.5,36069866,Artificial Intelligence,4,0,Other,26
+Quantitative Methods,120,0,4.7,3,69.0,53439310,Analytics,5,0,Other,51
+Queering Identities: LGBTQ+ Sexuality and Gender Identity,127,0,4.9,1,3.0,86566764,Consulting,4,0,Other,25
+R Programming,48,0,4.6,2,480.0,61563390,Management,4,0,Other,44
+"Ready, Set, Future! Introduction to Futures Thinking",46,0,4.8,1,7.7,83837580,Artificial Intelligence,5,0,Other,6
+Recommender Systems,136,2,4.3,2,29.0,20798977,Data Visualization,3,0,Other,38
+"Recruiting, Hiring, and Onboarding Employees",136,0,4.7,3,35.0,24072287,Consulting,5,0,Other,13
+Reinforcement Learning,119,2,4.7,2,23.0,47586631,Analytics,4,1,reinforcement learning,49
+Renewable Energy and Green Building Entrepreneurship,20,0,4.7,1,24.0,22163730,AI,4,0,Other,35
+Reporting extra-financier et stratégie RSE,25,0,4.7,1,5.2,31215521,Data Science,4,0,Other,53
+Requirements Engineering: Secure Software  Specifications,127,2,4.6,1,7.2,77656087,Machine Learning,3,0,Other,50
+Research Data Management and Sharing,96,0,4.6,3,16.0,19688571,Accounts,6,1,data management,27
+"Resilience in Children Exposed to Trauma, Disaster and War: Global Perspectives",136,0,4.8,3,15.0,48230849,Kaggle,4,0,Other,27
+Responsive Website Development and Design,31,2,4.5,1,170.0,33081895,Business,6,0,Other,45
+Rethinking International Tax Law,116,0,4.9,3,36.0,62644265,Feature Engineering,4,0,Other,1
+Revisão Sistemática e Meta-análise,112,0,4.9,2,17.0,46324193,Neural Networks,3,0,Other,51
+Robotics,138,2,4.4,1,120.0,91001869,Reinforcement Learning,5,0,Other,3
+Roman Architecture,148,0,4.9,1,30.0,43635772,Finance,3,0,Other,1
+Russian Alphabet,81,0,4.7,1,3.2,91350357,Consulting,3,0,Other,21
+Russian for beginners А1. Русский язык: A1,81,2,4.7,1,7.0,7932477,AI,3,0,Other,2
+Réussir le Changement,25,0,4.5,3,33.0,39365326,Business,5,0,Other,45
+SAS Programmer,79,1,4.8,1,370.0,46598778,Data Science,2,0,Other,47
+SAS Visual Business Analytics,79,1,4.6,1,2.6,9854378,Consulting,4,1,business analytics,0
+SQL for Data Science,122,0,4.6,1,160.0,87154485,Leadership,2,1,science data,6
+Sales Operations/Management,147,2,4.4,1,5.6,84432221,Accounts,1,1,,2
+Sales Training for High Performing Teams,37,2,4.7,1,16.0,38276905,Consulting,2,0,Other,39
+Sample-based Learning Methods,119,0,4.8,2,6.8,56380095,Leadership,2,0,Other,29
+Scaling Operations: Linking Strategy and Execution,67,0,4.5,3,12.0,53039234,Data Visualization,4,0,Other,21
+School Health for Children and Adolescents,127,2,4.8,1,9.1,23314840,Reinforcement Learning,2,0,Other,22
+Science of Exercise,126,0,4.8,1,140.0,5736173,Finance,5,0,Other,12
+Search Engine Optimization Fundamentals,122,0,4.7,3,47.0,69616268,Data Science,6,0,Other,13
+Secure Coding Practices,122,2,4.4,2,6.4,78994398,Finance,3,0,Other,17
+Security & Safety Challenges in a Globalized World,116,0,4.7,1,14.0,44414575,Neural Networks,6,0,Other,48
+Security in Google Cloud Platform,34,2,4.7,2,300.0,60951408,Administration,3,0,Other,42
+Self-Driving Cars,140,2,4.7,0,39.0,60739766,Reinforcement Learning,2,0,Other,0
+Sequence Models,150,0,4.8,2,14.0,77707600,Artificial Intelligence,4,0,Other,27
+Sexualidad...mucho más que sexo,111,0,4.8,1,110.0,17496828,Business,6,0,Other,18
+Sharpened Visions: A Poetry Workshop,12,0,4.7,1,61.0,52027209,Analytics,1,0,Other,24
+Site Reliability Engineering: Measuring and Managing Reliability,34,0,4.5,0,16.0,90804140,Artificial Intelligence,3,0,Other,23
+Six Sigma Green Belt,117,2,4.7,2,18.0,41724327,Deep Learning,1,0,Other,15
+Six Sigma and the Organization (Advanced),117,0,4.7,2,15.0,73649595,Consulting,4,0,Other,15
+"Sleep: Neurobiology, Medicine, and Society",135,0,4.8,1,20.0,8289678,Artificial Intelligence,6,0,Other,31
+Smart Cities – Management of Smart Urban Infrastructures,152,0,4.6,1,22.0,38557867,Data Visualization,6,1,management,37
+Social Entrepreneurship,18,2,4.6,1,13.0,6317725,Administration,5,0,Other,51
+Social Media Marketing,67,2,4.6,1,130.0,46578978,Management,3,0,Other,42
+"Social Norms, Social Change I",138,0,4.6,1,78.0,63267337,Finance,4,0,Other,19
+Social Policy for Social Services & Health Practitioners,16,2,4.8,1,4.2,13487202,Business,3,0,Other,14
+Social Psychology,146,0,4.7,1,220.0,16823582,Management,4,0,Other,29
+Social and Economic Networks:  Models and Analysis,85,0,4.8,0,42.0,69960485,Neural Networks,1,0,Other,39
+Software Design and Architecture,119,2,4.6,1,60.0,12835569,Finance,3,0,Other,25
+Software Development Lifecycle,136,2,4.6,2,34.0,96465565,Artificial Intelligence,5,0,Other,27
+Software Processes and Agile Practices,119,0,4.7,3,60.0,79838111,Neural Networks,4,0,Other,9
+Software Product Management,119,2,4.6,1,110.0,41595299,Kaggle,2,1,management,6
+Solar Energy Basics,94,0,4.8,1,17.0,16030916,Analytics,2,0,Other,10
+Songwriting: Writing the Lyrics,9,0,4.8,1,68.0,26822675,Feature Engineering,3,0,Other,52
+Soporte de Tecnologías de la Información de Google,19,1,4.9,1,8.8,23200685,Feature Engineering,6,0,Other,59
+Spacecraft Dynamics and Control,126,2,4.8,0,12.0,81648556,Analytics,6,0,Other,43
+Spanish Vocabulary: Meeting People,122,0,4.6,1,71.0,29670345,Artificial Intelligence,2,0,Other,41
+"Speak English Professionally: In Person, Online & On the Phone",30,0,4.6,3,430.0,58808131,Leadership,6,0,Other,10
+Sports Marketing,67,0,4.7,2,12.0,4918590,Leadership,5,0,Other,49
+Sports and Society,20,0,4.8,3,16.0,86728340,Pattern Recognition,3,0,Other,43
+Stanford Introduction to Food and Health,85,0,4.7,1,370.0,92945966,Machine Learning,3,0,Other,40
+Stanford's Short Course on Breastfeeding,85,0,4.7,1,17.0,76789086,Feature Engineering,4,0,Other,4
+Statistical Analysis with R for Public Health,44,2,4.7,1,16.0,61111270,Data Visualization,3,0,Other,28
+Statistics with Python,135,2,4.6,1,34.0,2574879,Data Science,3,0,Other,47
+Statistics with R,20,2,4.7,1,220.0,15846193,Artificial Intelligence,2,0,Other,39
+Stories of Infection,85,0,4.9,2,28.0,33303843,Business,5,0,Other,33
+Strategic Business Analytics,25,2,4.3,0,60.0,66580998,Analytics,1,1,business analytics,16
+Strategic Business Management - Microeconomics,123,0,4.7,1,9.5,16127299,Data Visualization,1,1,business management,26
+Strategic Leadership and Management,131,2,4.7,1,100.0,3951320,AI,6,1,leadership management,46
+Strategic Management,18,0,4.7,3,58.0,24337600,Administration,2,1,management,2
+Strategic Management and Innovation,18,2,4.7,1,68.0,34742966,Administration,1,1,management,2
+Strategic Sales Management,29,2,4.5,2,9.2,8356995,Deep Learning,6,1,management,22
+Strategising: Management for Global Competitive Advantage,55,2,4.8,2,30.0,91278816,Reinforcement Learning,5,1,management,2
+Strategy and Sustainability,41,0,4.6,1,11.0,43512773,Data Science,1,0,Other,26
+Structuring Machine Learning Projects,150,0,4.8,1,220.0,9450371,Analytics,2,1,learning machine,37
+Success,138,0,4.8,1,38.0,55626169,Feature Engineering,1,0,Other,41
+Successful Negotiation: Essential Strategies and Skills,135,0,4.8,3,750.0,5072471,Reinforcement Learning,6,0,Other,59
+Summary Statistics in Public Health,48,0,4.8,1,11.0,65707130,Administration,1,0,Other,55
+Supply Chain Analytics,78,0,4.7,1,7.9,65446448,Accounts,3,1,analytics,6
+Supply Chain Finance and Blockchain Technology,65,2,4.6,2,4.9,41445000,Data Science,4,1,finance,54
+Supply Chain Logistics,78,0,4.7,1,66.0,15577288,Deep Learning,1,0,Other,54
+Supply Chain Management,78,2,4.7,1,82.0,67190210,Data Visualization,1,1,management,5
+Supply Chain Operations,78,0,4.8,1,24.0,17082671,Pattern Recognition,6,0,Other,33
+Supply Chain Principles,30,0,4.6,3,29.0,76483358,Accounts,1,0,Other,26
+Supporting children with difficulties in reading and writing,104,0,4.8,3,50.0,58190065,Kaggle,2,0,Other,55
+Survey Data Collection and Analytics,134,2,4.3,1,45.0,73790064,Kaggle,6,1,data analytics,39
+Sustainable Tourism – promoting environmental public health,128,0,4.6,1,9.4,95708294,Kaggle,3,0,Other,13
+Swift 5 iOS Application Developer,50,2,4.5,1,3.9,61548398,Machine Learning,2,0,Other,46
+System Administration and IT Infrastructure Services,32,0,4.7,1,62.0,31091325,Leadership,4,1,administration,35
+Systems Biology and Biotechnology,43,2,4.4,2,48.0,43187279,Random Forest,6,0,Other,18
+Systems Thinking In Public Health,48,0,4.9,3,33.0,60101458,Kaggle,2,0,Other,39
+"TESOL Certificate, Part 1: Teach English Now!",4,2,4.9,1,100.0,91442607,Random Forest,4,0,Other,49
+"TESOL Certificate, Part 2: Teach English Now!",4,2,4.9,1,62.0,14370969,Deep Learning,6,0,Other,12
+Teach English Now! Foundational Principles,4,0,4.9,3,81.0,22882708,Finance,1,0,Other,17
+Teach English Now! Teaching Language Online,4,0,4.4,2,8.5,74400700,Data Science,1,0,Other,49
+Teaching Character and Creating Positive Classrooms,75,0,4.8,3,53.0,79061035,Leadership,6,0,Other,39
+Teamwork Skills: Communicating Effectively in Groups,126,0,4.8,1,49.0,50576981,Data Science,1,0,Other,48
+Technical Support Fundamentals,32,0,4.8,1,280.0,98935384,Reinforcement Learning,1,0,Other,4
+TensorFlow in Practice,150,2,4.7,2,170.0,58754484,Administration,5,0,Other,24
+TensorFlow: Data and Deployment,150,2,4.5,2,12.0,94370316,Accounts,4,0,Other,38
+Terrorism and Counterterrorism: Comparing Theory and Practice,116,0,4.8,1,90.0,19734177,Consulting,3,0,Other,31
+The Addicted Brain,27,0,4.6,1,130.0,52943384,Data Visualization,3,0,Other,47
+The Art of Music Production,9,0,4.8,2,47.0,23239311,Reinforcement Learning,5,0,Other,18
+The Art of Sales: Mastering the Selling Process,67,2,4.7,1,23.0,89615897,Pattern Recognition,1,0,Other,22
+The Arts and Science of Relationships: Understanding Human Needs,140,0,4.5,1,73.0,11870206,Finance,3,0,Other,16
+The Bits and Bytes of Computer Networking,32,0,4.7,1,130.0,30264960,Pattern Recognition,3,0,Other,22
+The Business of Health Care,138,2,4.6,1,22.0,17721670,Data Visualization,6,1,business,48
+The Business of Music Production,9,2,4.8,1,84.0,1631092,Accounts,3,1,business,29
+The Changing Global Order,116,0,4.7,2,23.0,71901172,Neural Networks,3,0,Other,21
+The Cycle: Management of Successful Arts and Cultural Organizations,134,0,4.8,1,11.0,62704580,Administration,5,1,management,21
+The DIY Musician,9,2,4.8,1,120.0,66846312,Kaggle,6,0,Other,27
+The Data Scientist’s Toolbox,48,0,4.6,3,420.0,23130229,Artificial Intelligence,4,0,Other,25
+The Economics of Health Care Delivery,138,0,4.8,3,7.2,63770755,Deep Learning,6,0,Other,20
+The Global Financial Crisis,148,0,4.8,3,84.0,23174031,Random Forest,6,0,Other,0
+The Horse Course: Introduction to Basic Care and Management,129,0,4.9,3,29.0,62041039,Accounts,2,1,management,39
+The Manager's Toolkit: A Practical Guide to Managing People at Work,10,0,4.6,3,47.0,91960275,Data Science,3,0,Other,3
+"The Modern World, Part One: Global History from 1760 to 1910",141,0,4.8,1,130.0,99513286,Leadership,6,0,Other,41
+"The Modern World, Part Two: Global History since 1910",141,0,4.8,1,47.0,7799574,AI,4,0,Other,26
+The Oral Cavity: Portal to Health and Disease,138,0,4.9,2,9.4,26825203,Consulting,6,0,Other,21
+The Power of Macroeconomics: Economic Principles in the Real World,123,0,4.6,3,180.0,56166257,Management,6,0,Other,11
+The Power of Microeconomics: Economic Principles in the Real World,123,0,4.7,3,120.0,26601360,Random Forest,6,0,Other,35
+The Pronunciation of American English,123,2,4.6,1,1.7,96536435,Random Forest,6,0,Other,13
+The Science of Gastronomy,90,0,4.6,3,50.0,61733231,Analytics,6,0,Other,6
+The Science of Stem Cells,3,0,4.7,2,12.0,98184029,Business,1,0,Other,38
+The Science of Success: What Researchers Know that You Should Know,135,0,4.8,1,59.0,885122,Machine Learning,6,0,Other,57
+The Science of Training Young Athletes,129,0,4.9,1,13.0,71176232,Management,1,0,Other,11
+The Science of Well-Being,148,0,4.9,3,2.5,9052662,Machine Learning,6,0,Other,6
+The Singer Songwriter,9,2,4.8,1,320.0,51293657,Business,5,0,Other,19
+The Social Context of Mental Health and Illness,140,0,4.6,3,19.0,97712053,Machine Learning,3,0,Other,42
+The Strategy of Content Marketing,122,0,4.5,2,100.0,7100387,Neural Networks,5,0,Other,5
+"The Sustainable Development Goals – A global, transdisciplinary vision for the future",128,0,4.8,1,26.0,46491500,Business,3,0,Other,22
+The Teacher and Social and Emotional Learning (SEL),126,2,4.7,1,5.2,50475648,Consulting,4,0,Other,19
+The Technology of Music Production,9,0,4.8,1,28.0,43606357,Administration,1,0,Other,52
+The Truth About Cats and Dogs,96,0,4.7,3,33.0,31012546,Artificial Intelligence,2,0,Other,8
+The hidden value – Lean in manufacturing and services,153,0,4.7,1,14.0,76066453,Data Visualization,6,0,Other,6
+Think Again I: How to Understand Arguments,20,0,4.6,1,200.0,63710931,AI,6,0,Other,28
+Tools for Data Science,38,0,4.6,1,120.0,14142417,Analytics,1,1,science data,18
+Trading Strategies in Emerging Markets,45,2,4.3,1,68.0,33414162,Random Forest,3,0,Other,29
+"Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences",106,0,4.8,3,45.0,44105278,Machine Learning,1,0,Other,47
+Tricky American English Pronunciation,123,0,4.7,1,110.0,74846017,Artificial Intelligence,5,0,Other,49
+Troubles du spectre de l'autisme : diagnostic,130,0,4.9,2,5.4,46776915,Leadership,4,0,Other,14
+U.S. Federal Taxation,131,2,4.8,2,12.0,30240337,Management,1,0,Other,0
+UCI Project Management,123,1,4.6,1,44.0,69657164,Administration,5,1,management,25
+UI / UX Design,12,2,4.7,1,68.0,47983007,Neural Networks,6,0,Other,12
+UX Design Fundamentals,12,0,4.8,1,25.0,35078537,Kaggle,4,0,Other,48
+Understanding Cancer Metastasis,48,0,4.8,1,29.0,85114073,Pattern Recognition,2,0,Other,28
+Understanding Clinical Research: Behind the Statistics,125,0,4.8,3,78.0,23078482,Management,5,0,Other,31
+Understanding Einstein: The Special Theory of Relativity,85,0,4.9,1,89.0,35841309,Feature Engineering,2,0,Other,53
+Understanding Medical Research: Your Facebook Friend is Wrong,148,0,4.8,1,24.0,92572446,Business,2,0,Other,15
+Understanding Modern Finance,2,2,4.4,2,11.0,25449564,Deep Learning,5,1,finance,0
+Understanding Plants - Part I: What a Plant Knows,88,0,4.8,1,49.0,57416426,Accounts,5,0,Other,29
+Understanding Research Methods,80,0,4.5,3,120.0,9226764,Deep Learning,6,0,Other,57
+Understanding and Visualizing Data with Python,135,0,4.7,1,30.0,919215,Analytics,3,0,Other,13
+Understanding the Brain: The Neurobiology of Everyday Life,95,0,4.9,1,130.0,71367561,AI,4,0,Other,44
+Unity Certified Programmer Exam Preparation,107,2,4.5,2,6.1,37418665,Management,1,0,Other,12
+Unity XR: How to Build AR and VR Apps,107,2,4.2,1,12.0,45020982,Deep Learning,2,0,Other,9
+University Teaching,97,0,4.8,1,9.5,38739922,Administration,5,0,Other,2
+Unraveling the Cycling City,120,0,4.9,2,3.9,17838532,Artificial Intelligence,5,0,Other,59
+User Experience Research and Design,135,2,4.8,1,23.0,17943833,Analytics,4,0,Other,4
+User Interface Design,136,2,4.6,2,43.0,67520518,Kaggle,1,0,Other,56
+Using Databases with Python,135,0,4.8,3,220.0,20698705,Feature Engineering,4,0,Other,54
+Using Python to Access Web Data,135,0,4.8,3,310.0,45311660,Kaggle,5,0,Other,37
+Using Python to Interact with the Operating System,32,0,4.7,1,19.0,14364091,Pattern Recognition,4,0,Other,3
+Value Chain Management,131,2,4.7,2,63.0,77803612,Artificial Intelligence,4,1,management,33
+Version Control with Git,5,0,4.8,3,40.0,54840338,Finance,6,0,Other,57
+Viral Marketing and How to Craft Contagious Content,138,0,4.7,3,150.0,73681343,Random Forest,3,0,Other,44
+Virtual Reality,31,2,4.7,1,37.0,42830979,Data Science,5,0,Other,16
+Virtual Teacher,123,2,4.3,1,23.0,37759825,Deep Learning,5,0,Other,20
+Vital Signs: Understanding What the Body Is Telling Us,138,0,4.8,3,190.0,25837457,Accounts,4,0,Other,37
+Web Applications for Everybody,135,2,4.8,2,120.0,57303830,Administration,6,0,Other,43
+Web Design for Everybody: Basics of Web Development & Coding,135,2,4.7,1,280.0,83590689,Feature Engineering,4,0,Other,51
+Weight Management: Beyond Balancing Calories,27,0,4.7,1,34.0,97226371,Feature Engineering,5,1,,20
+What Is Contemporary Art?,92,0,4.7,1,120.0,39549944,Reinforcement Learning,1,0,Other,36
+What future for education?,104,0,4.7,3,35.0,70245732,Administration,5,0,Other,40
+What is Compliance?,138,0,4.8,3,6.2,68727564,Deep Learning,5,0,Other,28
+What is Data Science?,38,0,4.7,1,260.0,565969,Pattern Recognition,3,1,data,29
+What is Social?,67,0,4.6,3,94.0,92108769,Accounts,2,0,Other,5
+Wine Tasting: Sensory Techniques for Wine Analysis,122,0,4.7,1,32.0,98375683,Machine Learning,1,0,Other,27
+Wonders of Ancient Egypt,138,0,4.8,2,17.0,22545677,Administration,6,0,Other,16
+Write A Feature Length Screenplay For Film Or Television,59,0,4.9,1,12.0,59780614,Pattern Recognition,6,0,Other,2
+Write Professional Emails in English,30,0,4.7,3,270.0,15476594,Data Visualization,6,0,Other,48
+Write Your First Novel,59,0,4.4,1,18.0,59906859,AI,6,0,Other,22
+Writing in the Sciences,85,0,4.9,1,140.0,44480733,Kaggle,1,0,Other,47
+e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age,131,0,4.5,3,17.0,71325801,Consulting,6,0,Other,44
+iOS App Development with Swift,140,2,3.9,2,76.0,32032199,Random Forest,6,0,Other,5
+¿Qué hacen los buenos directivos? Prioridades de la Alta Dirección,41,0,4.7,1,25.0,71126879,Artificial Intelligence,2,0,Other,31
+Étudier en France: French Intermediate course B1-B2,151,0,4.8,2,190.0,65259099,Accounts,5,0,Other,2
+Éxito Profesional,123,2,4.5,1,69.0,33677346,Reinforcement Learning,4,0,Other,22
+Искусство ведения бизнеса,81,2,4.6,1,14.0,98243233,Consulting,2,0,Other,15
+Искусство разработки на современном C++,21,2,4.9,2,68.0,5415667,Deep Learning,3,0,Other,2
+Корпоративные финансы и стоимость компании,63,2,4.5,1,16.0,2285294,Neural Networks,4,0,Other,49
+Математика и Python для анализа данных,21,0,4.8,1,67.0,13327618,Administration,2,0,Other,59
+Машинное обучение и анализ данных,21,2,4.7,2,77.0,27086497,Reinforcement Learning,1,0,Other,57
+Основы Digital Маркетинга,63,2,4.5,2,19.0,49153068,Consulting,2,0,Other,40
+Основы программирования на Python,63,0,4.6,1,83.0,66972404,Accounts,2,0,Other,42
+Основы разработки на C++: белый пояс,21,0,4.9,2,41.0,65332918,Data Visualization,4,0,Other,41
+Погружение в Python,60,0,4.7,2,45.0,15919225,Deep Learning,5,0,Other,40
+Программирование на Python,56,2,4.5,2,52.0,53069000,Kaggle,3,0,Other,19
+Психолингвистика (Psycholinguistics),81,0,4.8,3,21.0,17307819,Analytics,4,0,Other,37
+Разработка интерфейсов: вёрстка и JavaScript,21,2,4.5,2,30.0,27650892,Data Science,4,0,Other,2
+Русский как иностранный,81,2,4.6,2,9.8,40131076,Deep Learning,3,0,Other,48
+Финансовые инструменты для частного инвестора,63,2,4.7,1,38.0,47441253,Leadership,4,0,Other,9

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>ML API</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  
+</head>
+
+<body>
+ <div class="login">
+	<h1>Course Recommendation</h1>
+    <h2>Employee ID {{Name}}</h2>
+     <!-- Main Input For Receiving Query to our ML -->
+    
+   <br>
+   <br>
+   <ol>
+    <!-- For loop logic of jinja template -->
+    {%for i in range(0, len)%}
+      
+        <li>{{lst[i]}}</li>
+    {%endfor%}
+      
+    </ol>
+
+ </div>
+
+
+</body>
+</html>
