@@ -15,12 +15,13 @@
 <body>
  <div class="login">
 	<h1>Course Recommendation</h1>
-  <button type="submit" onClick="myFunction()" >All Analysis</button> 
+  <button type="submit" class="btn btn-primary btn-block btn-large" onClick="myFunction()" >All Analysis</button> 
    <script>
      function myFunction() {
        window.location.href="stats";  
      }
    </script>
+   <br/>
 
      <!-- Main Input For Receiving Query to our ML -->
     <form action="{{ url_for('course')}}" method="post">
